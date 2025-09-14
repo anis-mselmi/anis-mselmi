@@ -22,7 +22,7 @@
 
 ## 🎓 Education  
 - **Computer Engineering Student**  
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/Logo-Polytec-Eurace-bleu-01.png" alt="Polytechnique de Sousse" width="200"/>  
+    <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/Logo-Polytec-Eurace-bleu-01.png" alt="Polytechnique de Sousse" width="400"/>  
   **Ecole Polytechnique de Sousse** (EUR-ACE Accredited)
 
 ---
