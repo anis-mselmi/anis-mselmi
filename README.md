@@ -14,11 +14,7 @@
 ---
 
 
-## 🎓 Education  
-- **Computer Engineering Student**    
-  **Ecole Polytechnique de Sousse** (EUR-ACE Accredited)
 
----
 
 ## 🛠️ Skills & Tools  
 
