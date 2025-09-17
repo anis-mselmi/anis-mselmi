@@ -52,14 +52,20 @@
 
 ### Development Tools  
 <p>
+  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40"/>
-  <img src="https://desktop.github.com/images/favicon.png" alt="GitHub Desktop" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/GitHub_Copilot_Logo.svg" alt="GitHub Copilot" width="40"/>
-  <img src="https://raw.githubusercontent.com/deepseek-ai/deepseek/main/assets/logo.png" alt="DeepSeek" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
+  <!-- GitHub White -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(100%);"/>
+  <!-- GitHub Desktop -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-desktop/github-desktop.png" width="40"/>
+  <!-- GitHub Copilot -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" width="40"/>
+  <!-- DeepSeek -->
+  <img src="https://raw.githubusercontent.com/deepseek-ai/deepseek/main/assets/logo.png" width="40"/>
 </p>
+
 
 ### Design & Collaboration  
 <p>
