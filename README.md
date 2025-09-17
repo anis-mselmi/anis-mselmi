@@ -59,11 +59,13 @@
   <!-- GitHub (White) -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>
   <!-- GitHub Desktop -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/GitHub_Desktop_logo_2021.svg" width="40"/>
+  ### Development Tools  
   <!-- GitHub Copilot -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/GitHub_Copilot_Logo.svg" width="40"/>
   <!-- DeepSeek -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DeepSeek_logo.svg" width="40"/>
+  <!-- GitHub Desktop -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/GitHub_Desktop_logo_2021.svg" width="40"/>
   <!-- ChatGPT -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
 </p>
