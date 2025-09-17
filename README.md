@@ -56,18 +56,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <!-- GitHub (White) -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>
-  <!-- GitHub Desktop -->
-  ### Development Tools  
-  <!-- GitHub Copilot -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/GitHub_Copilot_Logo.svg" width="40"/>
-  <!-- DeepSeek -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DeepSeek_logo.svg" width="40"/>
-  <!-- GitHub Desktop -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/GitHub_Desktop_logo_2021.svg" width="40"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(100%);"/>
+  <!-- GitHub Desktop (icon-style alternative) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <!-- GitHub Copilot (icon-style alternative) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <!-- DeepSeek (icon-style alternative) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 
