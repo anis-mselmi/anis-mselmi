@@ -14,6 +14,17 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anis-mselmi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats
+
+![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=onedark)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anis-mselmi&theme=onedark&hide_border=true)
+
+### 💡 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=onedark)
 
 
 
