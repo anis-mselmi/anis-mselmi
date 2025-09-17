@@ -14,22 +14,22 @@
 ---
 
 ## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anis-mselmi&theme=onedark&margin-w=10&margin-h=10&cache_seconds=1800)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anis-mselmi&theme=onedark&margin-w=10&margin-h=10&cache_seconds=600)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=onedark&cache_seconds=1800" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=onedark&cache_seconds=1800" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=onedark&cache_seconds=600" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=onedark&cache_seconds=600" alt="Top languages" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anis-mselmi&theme=onedark&hide_border=true&cache_seconds=1800" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=anis-mselmi&theme=onedark&hide_border=true&cache_seconds=600" alt="GitHub streak"/>
 </p>
 
 ---
