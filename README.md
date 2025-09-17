@@ -73,4 +73,19 @@
 
 ---
 
+## 📫 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/nannous.mselmi?locale=fr_FR" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
+  <a href="mailto:anismselmi490@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40"/>
+  </a>
+</p>
+
+---
+
 ✨ _“Curiosity drives innovation, and persistence builds solutions.”_ ✨
