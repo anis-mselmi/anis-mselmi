@@ -23,15 +23,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical&cache_seconds=600&hide_border=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&cache_seconds=600&hide_border=false" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=dark&cache_seconds=600&hide_border=false" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=dark&cache_seconds=600&hide_border=false" alt="Top languages" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anis-mselmi&theme=neon&hide_border=false&cache_seconds=600" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=anis-mselmi&theme=dark&hide_border=false&cache_seconds=600" alt="GitHub streak"/>
 </p>
 
 ---
