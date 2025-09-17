@@ -57,14 +57,12 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(100%);"/>
-  <!-- GitHub Desktop (icon-style alternative) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <!-- GitHub Copilot (icon-style alternative) -->
+  <!-- GitHub Desktop (using GitHub icon as closest match) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <!-- DeepSeek (icon-style alternative) -->
+  <!-- GitHub Copilot (using AI icon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <!-- ChatGPT -->
+  <!-- DeepSeek (using Python icon as placeholder) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
