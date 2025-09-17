@@ -54,7 +54,11 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40"/>
+  <img src="https://desktop.github.com/images/favicon.png" alt="GitHub Desktop" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/GitHub_Copilot_Logo.svg" alt="GitHub Copilot" width="40"/>
+  <img src="https://raw.githubusercontent.com/deepseek-ai/deepseek/main/assets/logo.png" alt="DeepSeek" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
 </p>
 
 ### Design & Collaboration  
