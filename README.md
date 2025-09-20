@@ -1,13 +1,14 @@
 # Welcome To My Github Space  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; padding-right: 20px;">
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 300px;">
     Hi 👋, I'm **Anis Mselmi**  
 
     A passionate **Computer Engineering Student**  
 
-    - 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
+    - 🤖 I’m currently focusing on **Machine Learning & Deep Learning**  
     - 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
     - 🌌 I’m currently working on **Computer Vision & Image Classification / Regression**  
     - 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
@@ -18,7 +19,8 @@
     🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
   </div>
 
-  <div style="flex: 1; text-align: center;">
+  <!-- Image Section -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="350"/>
   </div>
 
@@ -47,4 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>   
-</p>  
+</p>
