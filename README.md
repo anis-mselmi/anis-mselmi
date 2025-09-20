@@ -2,25 +2,27 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <div style="flex: 1; padding-right: 20px;">
-    Hi 👋, I'm **Anis Mselmi**  
+<div style="flex: 1;">
 
-    A passionate **Computer Engineering Student**  
+Hi 👋, I'm **Anis Mselmi**  
 
-    - 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
-    - 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
-    - 🌌 I’m currently working on **Computer Vision & Image Classification / Regression**  
-    - 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
-    - 📈 I’m also interested in **Explainable AI (XAI)**  
+A passionate **Computer Engineering Student**  
 
-    📫 How to reach me  
-    📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
-    🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
-  </div>
+- 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
+- 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
+- 🌌 I’m currently working on **Computer Vision & Image Classification / Regression**  
+- 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
+- 📈 I’m also interested in **Explainable AI (XAI)**  
+- 📫 How to reach me  
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="350"/>
-  </div>
+📧 Email: [anis.mselmi@esprit.tn](mailto:anis.mselmi@esprit.tn)  
+🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
+
+</div>
+
+<div style="flex: 1; text-align: center;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="350"/>
+</div>
 
 </div>
 
@@ -46,5 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>  
 </p>  
+
+---
