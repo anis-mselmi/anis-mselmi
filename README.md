@@ -12,10 +12,10 @@ A passionate **Computer Engineering Student**
 - 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
 - 🌌 I’m currently working on **Computer Vision & Image Classification / Regression**  
 - 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
-- 📈 I’m also interested in **Explainable AI (XAI)**  
-- 📫 How to reach me  
+- 📈 I’m also interested in **Explainable AI (XAI)**
 
-📧 Email: [anis.mselmi@esprit.tn](mailto:anis.mselmi@esprit.tn)  
+📫 How to reach me  
+📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
 🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
 
 </div>
@@ -48,8 +48,7 @@ A passionate **Computer Engineering Student**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>    
 </p>  
 
 ---
