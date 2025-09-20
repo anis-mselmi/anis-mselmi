@@ -1,8 +1,12 @@
 # Welcome To My Github Space  
 
-Hi 👋, I'm Anis Mselmi  
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-A passionate Computer Engineering Student  
+<div style="flex: 1;">
+
+Hi 👋, I'm **Anis Mselmi**  
+
+A passionate **Computer Engineering Student**  
 
 - 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
 - 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
@@ -14,11 +18,13 @@ A passionate Computer Engineering Student
 📧 Email: [anis.mselmi@esprit.tn](mailto:anis.mselmi@esprit.tn)  
 🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
 
----
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Illustration" width="400"/>
-</p>
+<div style="flex: 1; text-align: center;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="350"/>
+</div>
+
+</div>
 
 ---
 
