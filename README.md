@@ -10,9 +10,9 @@ A passionate **Computer Engineering Student**
 
 - 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
 - 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
-- 🌌 I’m currently working on **Computer Vision & Image Classification / Regression**  
+- 🌌 I’m currently honing my skills in **Cracking Challenges & Problem Solving**    
 - 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
-- 📈 I’m also interested in **Explainable AI (XAI)**
+
 
 📫 How to reach me  
 📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
