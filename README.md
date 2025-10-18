@@ -6,7 +6,7 @@
 
 Hi 👋, I'm **Anis Mselmi**  
 
-A passionate **Computer Engineering Student**  
+A passionate **AI & Software Engineering Student**  
 
 ### 🚀 What I'm Up To
 
