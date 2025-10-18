@@ -8,10 +8,12 @@ Hi 👋, I'm **Anis Mselmi**
 
 A passionate **Computer Engineering Student**  
 
-- 🤖 I’m currently Focusing on **Machine Learning & Deep Learning**  
-- 🧠 I’m currently exploring **Natural Language Processing (NLP)**  
-- 🌌 I’m currently honing my skills in **Cracking Challenges & Problem Solving**    
-- 🛠️ I’m currently learning **Agentic AI & Large Language Models (LLMs)**  
+### 🚀 What I'm Up To
+
+- 🤖 **Mastering Machine Learning & Deep Learning**  
+- 🧠 **Exploring Natural Language Processing (NLP)**  
+- 💻 **Learning JavaScript**  
+- 🛠️ **Exploring Agentic AI & Large Language Models (LLMs)**  
 
 
 📫 How to reach me  
@@ -33,9 +35,7 @@ A passionate **Computer Engineering Student**
 <p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>  
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40"/>  
