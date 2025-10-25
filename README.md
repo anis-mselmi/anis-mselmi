@@ -8,7 +8,10 @@ Hi 👋, I'm **Anis Mselmi**
 
 A passionate **AI & Software Engineering Student**  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="180" alt="Tunisian Flag">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="120" alt="Tunisian Flag">
+</p>
+
 
 
 
