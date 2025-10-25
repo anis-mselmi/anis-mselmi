@@ -7,7 +7,9 @@
 Hi 👋, I'm **Anis Mselmi**  
 
 A passionate **AI & Software Engineering Student**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="40" alt="Tunisian Flag">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="120" alt="Tunisian Flag">
+
 
 
 ### 🚀 What I'm Up To
