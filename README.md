@@ -28,13 +28,12 @@ A passionate **AI & Software Engineering Student**
 📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
 🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="Developer Illustration" 
+       width="350"/>
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="350"/>
-</div>
-
-</div>
 
 ---
 
