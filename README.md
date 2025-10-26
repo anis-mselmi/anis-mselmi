@@ -62,14 +62,16 @@ A passionate **Computer Engineering Student** exploring **Artificial Intelligenc
 ## 📊 GitHub Stats  
 
 
-  <!-- Contribution Streak -->
+
+<!-- Contribution Streak -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=radical" width="48%"/>
 </p>
 
+<!-- Top Languages Used -->
 <p align="center">
-  <!-- Top Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" width="48%"/>
-  
+</p>
 
 
 ---
