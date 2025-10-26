@@ -26,11 +26,11 @@
 
 ## 🚀 **What I'm Up To**
 
-**🤖 Mastering Machine Learning & Deep Learning**  
-**🧠 Exploring AI-powered Web Apps (JavaScript + AI)**  
-**💻 Developing with Python & JavaScript**  
-**🧩 Applying AI in Real-World Solutions**  
-**🔍 Open to Internships & Part-Time AI Projects**
+## 🤖 Mastering Machine Learning & Deep Learning
+## 🧠 Exploring AI-powered Web Apps (JavaScript + AI)  
+## 💻 Developing with Python & JavaScript  
+## 🧩 Applying AI in Real-World Solutions
+## 🔍 Open to Internships & Part-Time AI Projects
 
 ---
 
