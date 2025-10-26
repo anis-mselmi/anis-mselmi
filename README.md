@@ -38,11 +38,13 @@
 
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" alt="Email"/>](mailto:anismselmi490@gmail.com) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>](mailto:anismselmi490@gmail.com) 
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/anis-mselmi-441b39326/)
 
 </div>
+
+
 
 
 
