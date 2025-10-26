@@ -57,13 +57,10 @@ A passionate **Computer Engineering Student** exploring **Artificial Intelligenc
 
 ---
 
-## 📊 GitHub Stats  
+
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <!-- Total Contributions & General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical" width="48%"/>
 
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=radical" width="48%"/>
@@ -73,14 +70,6 @@ A passionate **Computer Engineering Student** exploring **Artificial Intelligenc
   <!-- Top Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" width="48%"/>
   
-  <!-- Most Used Language Wheel -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anis-mselmi&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- Repository Ranking / Activity -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anis-mselmi&theme=react-dark&area=true" width="100%"/>
-</p>
 
 
 ---
