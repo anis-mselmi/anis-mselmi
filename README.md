@@ -105,4 +105,4 @@
 ---
 
 ## 🌟 Fun Fact  
-> *My code sleeps sometimes… but my ideas never do!* 😄
+> *Je débogue la nuit, je rêve en Python le jour.* 🧠💤
