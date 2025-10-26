@@ -24,24 +24,22 @@
 
 <div align="center">
 
-<h2>🚀 <b>What I'm Up To</b></h2>
+## 🚀 **What I'm Up To**
 
-<p style="font-size:20px; line-height:2;">
-  <span style="font-size:28px;">🤖</span> <b>Mastering Machine Learning & Deep Learning</b><br>
-  <span style="font-size:28px;">🧠</span> <b>Exploring AI-powered Web Apps (JavaScript + AI)</b><br>
-  <span style="font-size:28px;">💻</span> <b>Developing with Python & JavaScript</b><br>
-  <span style="font-size:28px;">🧩</span> <b>Applying AI in Real-World Solutions</b><br>
-  <span style="font-size:28px;">🔍</span> <b>Open to Internships & Part-Time AI Projects</b>
-</p>
+**🤖 Mastering Machine Learning & Deep Learning**  
+**🧠 Exploring AI-powered Web Apps (JavaScript + AI)**  
+**💻 Developing with Python & JavaScript**  
+**🧩 Applying AI in Real-World Solutions**  
+**🔍 Open to Internships & Part-Time AI Projects**
 
-<h2>📫 <b>How to Reach Me</b></h2>
+---
 
-<p style="font-size:22px; line-height:2;">
-  <a href="mailto:anismselmi490@gmail.com" style="font-size:22px;">📧 Email Me</a> | 
-  <a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" style="font-size:22px;">🔗 LinkedIn</a>
-</p>
+## 📫 **How to Reach Me**
+
+[📧 Email Me](mailto:anismselmi490@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/anis-mselmi-441b39326/)
 
 </div>
+
 
 
 <p>
