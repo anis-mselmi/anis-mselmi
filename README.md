@@ -4,11 +4,13 @@
 
 <div style="flex: 1;">
 
+<div align="center">
+
 Hi 👋, I'm **Anis Mselmi**  
 
 A passionate **Computer Engineering Student** exploring **Artificial Intelligence, Machine Learning, Deep Learning, and JavaScript-based Web Development**.
 
-<p align="center">
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="250" alt="Tunisian Flag">
 </p>
 
@@ -24,15 +26,14 @@ A passionate **Computer Engineering Student** exploring **Artificial Intelligenc
 📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
 🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
 
-</div>
-
-<div style="flex: 1; text-align: center;">
+<p>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
        alt="Developer Illustration" 
        width="350"/>
-</div>
+</p>
 
 </div>
+
 
 ---
 
