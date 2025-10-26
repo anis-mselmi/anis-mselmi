@@ -6,33 +6,40 @@
 
 <div align="center">
 
-Hi 👋, I'm **Anis Mselmi**  
+<div align="center">
+
+# Hi 👋, I'm **Anis Mselmi**
 
 A passionate **Computer Engineering Student** exploring **Artificial Intelligence, Machine Learning, Deep Learning, and JavaScript-based Web Development**.
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="250" alt="Tunisian Flag">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="180" alt="Tunisian Flag">
 </p>
+
+---
 
 ### 🚀 What I'm Up To  
 
 - 🤖 **Mastering Machine Learning & Deep Learning**  
-- 🧠 **Exploring AI-powered Web Apps (JS + AI)**  
+- 🧠 **Exploring AI-powered Web Apps (JavaScript + AI)**  
 - 💻 **Developing with Python & JavaScript**  
 - 🧩 **Applying AI in Real-World Solutions**  
 - 🔍 **Open to Internships & Part-Time AI Projects**  
 
+---
+
 📫 **How to reach me:**  
-📧 Email: [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
-🔗 LinkedIn: [Anis Mselmi](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
+📧 [anismselmi490@gmail.com](mailto:anismselmi490@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anis-mselmi-441b39326/)  
 
 <p>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
        alt="Developer Illustration" 
-       width="350"/>
+       width="300"/>
 </p>
 
 </div>
+
 
 
 ---
