@@ -10,6 +10,8 @@
 
 <div align="center">
 
+<div align="center">
+
 # 👋 Hi, I'm **Anis Mselmi**
 
 ## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 JavaScript Developer
@@ -20,7 +22,7 @@
 
 ---
 
-### 🚀 What I'm Up To  
+## 🚀 What I'm Up To  
 
 - 🤖 **Mastering Machine Learning & Deep Learning**  
 - 🧠 **Exploring AI-powered Web Apps (JavaScript + AI)**  
@@ -30,19 +32,21 @@
 
 ---
 
-📫 **How to reach me:**  
+## 📫 How to Reach Me  
+
 <p>
-  <a href="mailto:anismselmi490@gmail.com">📧 Email Me</a> | 
-  <a href="https://www.linkedin.com/in/anis-mselmi-441b39326/">🔗 LinkedIn</a>
+  <a href="mailto:anismselmi490@gmail.com" style="font-size:18px;">📧 Email Me</a> | 
+  <a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" style="font-size:18px;">🔗 LinkedIn</a>
 </p>
 
 <p>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
        alt="Developer Illustration" 
-       width="400"/>
+       width="450"/>
 </p>
 
 </div>
+
 
 
 
