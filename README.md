@@ -61,7 +61,7 @@ A passionate **Computer Engineering Student** exploring **Artificial Intelligenc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnisMselmi&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisMselmi&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=radical" width="48%"/>
 </p>
 
 ---
