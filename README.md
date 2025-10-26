@@ -12,10 +12,6 @@ A passionate **AI & Software Engineering Student**
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="300" alt="Tunisian Flag">
 </p>
 
-
-
-
-
 ### 🚀 What I'm Up To
 
 - 🤖 **Mastering Machine Learning & Deep Learning**  
