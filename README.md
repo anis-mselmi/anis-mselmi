@@ -27,7 +27,7 @@
 ## 🚀 **What I'm Up To**
 
 **🤖 Mastering Machine Learning & Deep Learning**  
-**🧠 Exploring AI-powered Web Apps (JavaScript + AI)**  
+**🧠 Exploring AI-powered Web Apps **  
 **💻 Developing with Python & JavaScript**  
 **🧩 Applying AI in Real-World Solutions**  
 **🔍 Open to Internships & Part-Time AI Projects**
@@ -41,8 +41,11 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>](mailto:anismselmi490@gmail.com) 
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/anis-mselmi-441b39326/)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" alt="Discord"/>](https://discord.com/users/anismselmi_14775)
 
 </div>
+
 
 
 
