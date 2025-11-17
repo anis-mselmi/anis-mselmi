@@ -42,9 +42,10 @@
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/anis-mselmi-441b39326/)
 &nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" alt="Discord"/>](https://discord.com/users/anismselmi_14775)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="40" alt="Discord"/>](https://discord.com/users/anismselmi_14775)
 
 </div>
+
 
 
 
