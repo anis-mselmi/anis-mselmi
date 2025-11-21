@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm **Anis Mselmi**
 
-## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 JavaScript Developer
+## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Web Developer
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="220" alt="Tunisian Flag">
