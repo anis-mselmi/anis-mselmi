@@ -98,7 +98,7 @@
 
 
 <!-- Top Languages Used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" alt="Top languages" width="400"/> </p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anis-mselmi?tab=repositories)
 
 
 
