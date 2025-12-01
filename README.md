@@ -99,8 +99,13 @@
 
 <!-- Top Languages Used -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" alt="Top languages" width="400"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&cache_seconds=7200"
+    alt="Top Languages"
+    width="400"
+  />
 </p>
+
 
 
 ---
