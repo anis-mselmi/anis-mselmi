@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm **Anis Mselmi**
 
-## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Web Developer
+## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="220" alt="Tunisian Flag">
@@ -98,9 +98,8 @@
 
 
 <!-- Top Languages Used -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&cache_seconds=86400" width="400"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" alt="Top languages" width="400"/> </p>
+
 
 
 
