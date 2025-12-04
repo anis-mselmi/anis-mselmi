@@ -96,23 +96,14 @@
 <!-- START: GitHub Stats for anis-mselmi -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="anis-mselmi GitHub stats" width="460"/>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&hide_border=true&theme=radical" alt="anis-mselmi Top Languages" width="320"/>
-</p>
+
 
 <p align="center">
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=radical&hide_border=true" alt="anis-mselmi Streak" width="620"/>
 </p>
 
-<p align="center">
-  <!-- Activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=anis-mselmi&theme=react-dark&hide_border=true&area=true" alt="anis-mselmi Activity Graph" width="900"/>
-</p>
-<!-- END: GitHub Stats for anis-mselmi -->
+
 
 
 
