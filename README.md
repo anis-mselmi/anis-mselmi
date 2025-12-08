@@ -95,19 +95,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" />
-    <img src="https://github-stats-alpha.vercel.app/api?username=anis-mselmi&cc=141321&tc=fff&ic=79ff97&bc=141321" alt="GitHub Stats" />
-  </picture>
+  <!-- Primary: streak stats (high uptime) -->
+  <img
+    src="https://streak-stats.demolab.com?user=anis-mselmi&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true&card_width=495&v=1"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&cache_seconds=86400" />
-    <img src="https://github-stats-alpha.vercel.app/api?username=anis-mselmi&layout=compact&cc=141321&tc=fff&ic=79ff97&bc=141321" alt="Top Languages" />
-  </picture>
+  <!-- Secondary: top languages (compact) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&hide_border=true&cache_seconds=7200&v=1"
+    alt="Top Languages"
+    width="400"
+  />
 </p>
 
+<p align="center">
+  <!-- Backup: profile trophy (extra visual, typically up) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=anis-mselmi&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8&v=1"
+    alt="GitHub Profile Trophies"
+  />
+</p>
 
 
 
