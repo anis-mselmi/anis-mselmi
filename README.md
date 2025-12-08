@@ -98,7 +98,8 @@
 
 
 
-![Anis-Mselmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)](https://github.com/anis-mselmi)
+
 
 
 
