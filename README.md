@@ -98,10 +98,7 @@
 
 
 
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=radical&hide_border=true" alt="anis-mselmi Streak" width="620"/>
-</p>
+![Anis-Mselmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)
 
 
 
