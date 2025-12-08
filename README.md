@@ -94,19 +94,9 @@
 
 
 <!-- START: GitHub Stats for anis-mselmi -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical&cache_seconds=600" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=anis-mselmi&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" width="48%" />
-</p>
-
+![Anis-Mselmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)
 
 
 
