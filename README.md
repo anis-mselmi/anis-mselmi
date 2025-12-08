@@ -98,7 +98,15 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)](https://github.com/anis-mselmi)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anis-mselmi&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical" width="48%" />
+</p>
+
 
 
 
