@@ -94,10 +94,19 @@
 
 ## 📊 GitHub Stats
 
-![Anis-Mselmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical)
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=anis-mselmi&cc=141321&tc=fff&ic=79ff97&bc=141321" alt="GitHub Stats" />
+  </picture>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical)
-
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&cache_seconds=86400" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=anis-mselmi&layout=compact&cc=141321&tc=fff&ic=79ff97&bc=141321" alt="Top Languages" />
+  </picture>
+</p>
 
 
 
