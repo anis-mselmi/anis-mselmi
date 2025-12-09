@@ -94,20 +94,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://your-grs.vercel.app/api?username=anis-mselmi&show_icons=true&theme=radical&rank_icon=github&cache_seconds=21600&v=1"
-    alt="GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://your-grs.vercel.app/api/top-langs/?username=anis-mselmi&layout=compact&theme=radical&hide_border=true&cache_seconds=21600&v=1"
-    alt="Top Languages"
-    width="400"
-  />
-</p>
 
 <p align="center">
   <img
