@@ -92,24 +92,4 @@
 ---
 
 
-## 📊 GitHub Stats
 
-
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=anis-mselmi&theme=radical&hide_border=true&card_width=495&v=1"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-
-
-
-
----
-
-## 🌟 Fun Fact  
-*Je débogue la nuit, je rêve en Python le jour.* 🧠💤
