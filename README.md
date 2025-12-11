@@ -1,11 +1,4 @@
 # 🌌 Welcome To My GitHub Space
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=anis-mselmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="flex: 1;">
@@ -104,6 +97,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>  
 </p>
+---
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anis-mselmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anis-mselmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   
 ---
 ## 📗 NVIDIA Certificates
