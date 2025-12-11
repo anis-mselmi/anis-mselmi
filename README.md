@@ -11,6 +11,9 @@
 <div align="center">
 
 <div align="center">
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+<br> 
 
 # 👋 Hi, I'm **Anis Mselmi**
 
