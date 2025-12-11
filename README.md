@@ -109,6 +109,11 @@
   </tr>
 </table>
 
+---
+## 🚀 Vibe Coding Quote
+
+> **« Je code avec des vibes, pas avec des bugs… enfin j’essaie. »**
+
 
 
 
