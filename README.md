@@ -89,7 +89,7 @@
 </p>
   
 ---
-## 📜 Certificates
+## 📗 NVIDIA Certificates
 
 <table>
   <tr>
