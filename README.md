@@ -1,4 +1,11 @@
-# 🌌 Welcome To My GitHub Space  
+# 🌌 Welcome To My GitHub Space
+<div align="center">
+
+<!-- GitHub Stat Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=anis-mselmi&row=1&column=7&theme=gruvbox" alt="GitHub Trophies" />
+
+</div>
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="flex: 1;">
