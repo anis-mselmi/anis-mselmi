@@ -17,8 +17,13 @@
 
 ## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif" width="250">
+<p align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="250">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/ironcat.jpg" width="250">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif" width="250">
+</p>
 <br><br>
+
 
 
 
