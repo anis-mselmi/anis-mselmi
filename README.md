@@ -13,12 +13,6 @@
 <div align="center">
 
 # 👋 Hi, I'm **Anis Mselmi**
-# 🌟 ANIS MSELMI
-
-[![Home](https://img.shields.io/badge/Home-🏠-blue?style=for-the-badge)](#) 
-[![Projects](https://img.shields.io/badge/Projects-💻-green?style=for-the-badge)](#) 
-[![Resume](https://img.shields.io/badge/Resume-📄-orange?style=for-the-badge)](#) 
-[![Contact](https://img.shields.io/badge/Contact-📫-red?style=for-the-badge)](#)
 
 
 ## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
