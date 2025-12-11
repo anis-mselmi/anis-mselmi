@@ -1,14 +1,12 @@
 # 🌌 Welcome To My GitHub Space  
 <div align="center">
-    <a href="#anis-mselmi-dark-mode">
-        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="ANIS MSELMI Introduction" />
-    </a>
-    <a href="#anis-mselmi-light-mode">
+    <a href="#anis-mselmi">
         <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif" alt="ANIS MSELMI Introduction" />
     </a>
 </div>
 
 </br>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
