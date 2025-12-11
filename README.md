@@ -17,9 +17,9 @@
 
 ## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="220" alt="Tunisian Flag">
-</p>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/droidtocat.png' width='300"'>
+<br>
+<br>
 
 ---
 
