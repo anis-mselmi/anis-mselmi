@@ -88,6 +88,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>  
 </p>
   
+---
+## 📜 Certificates
+
+<table>
+  <tr>
+    <td align="center"><img src="My Learning _ NVIDIA._page-0001.jpg" width="300"></td>
+    <td align="center"><img src="My Learning _ NVIDIA.._page-0001.jpg" width="300"></td>
+    <td align="center"><img src="My Learning _ NVIDIA..._page-0001.jpg" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="My Learning _ NVIDIA...._page-0001.jpg" width="300"></td>
+    <td align="center"><img src="My Learning _ NVIDIA....._page-0001.jpg" width="300"></td>
+    <td align="center"><img src="My Learning _ NVIDIA......_page-0001.jpg" width="300"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><img src="My Learning _ NVIDIA......._page-0001.jpg" width="300"></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
