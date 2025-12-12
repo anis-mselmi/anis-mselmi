@@ -43,10 +43,7 @@
 
 ## 🚀 **What I'm Up To**
 
-**🤖 Mastering Machine Learning & Deep Learning**    
-**💻Building Applications with Python and Web Tools**  
-**🧩 Applying AI in Real-World Solutions**  
-**🔍 Open to Internships & Part-Time AI Projects**
+# 🤖 Mastering Machine Learning & Deep Learning and 💻 Building Applications with Python and Web Tools are core to my work. I focus on 🧩 Applying AI in Real-World Solutions, turning theoretical models into practical applications. I am currently 🔍 Open to Internships & Part-Time AI Projects to further expand my experience.
 
 ---
 
