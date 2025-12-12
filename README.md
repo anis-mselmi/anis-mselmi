@@ -129,10 +129,7 @@
   </tr>
 </table>
 
----
-## 🚀 Vibe Coding Quote
 
- **« Je code avec des vibes, pas avec des bugs… enfin j’essaie. »**
 <img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
 <img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
 
