@@ -120,11 +120,14 @@
     <td align="center"><img src="My Learning _ NVIDIA......_page-0001.jpg" width="300"></td>
   </tr>
   <tr>
-    <td></td>
-    <td align="center"><img src="My Learning _ NVIDIA......._page-0001.jpg" width="300"></td>
-    <td></td>
+    <td align="center"></td>
+    <td align="center">
+      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="300">
+    </td>
+    <td align="center"></td>
   </tr>
 </table>
+
 
 
 <img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
