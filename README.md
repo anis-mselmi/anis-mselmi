@@ -19,7 +19,7 @@
 
 # 👋 Hi, I'm **Anis Mselmi**
 <div align="center">
-  <img src="Copie de photo de couverture LinkedIn..png" alt="Cover Image" width="100%" />
+  <img src="Copie de photo de couverture LinkedIn.png" alt="Cover Image" width="100%" />
 </div>
 
 
