@@ -1,142 +1,73 @@
-<div align="center">
-
-# 🥞 Welcome To My GitHub Space
-
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-
-# 👋 Hi, I'm **Anis Mselmi**
-<div align="center">
-  <img src="a.png" alt="Cover Image" width="100%" />
-</div>
-
-
-
-## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
-
+<!-- Banner / Logo -->
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="250">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/homercat.png" width="250">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif" width="250">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/Logo-Polytec-Eurace-bleu-01.png" alt="Polytechnique de Sousse" width="400"/>
 </p>
-<br><br>
 
+# Hi, I'm Anis Mselmi 👋  
 
-
-
-
----
-
-<div align="center">
-
-# 🚀 **What I'm Up To**
-
-## 🤖 Mastering Machine Learning & Deep Learning and 💻 Building Applications with Python and Web Tools are core to my work. I focus on 🧩 Applying AI in Real-World Solutions, turning theoretical models into practical applications. I am currently 🔍 Open to Internships & Part-Time AI Projects to further expand my experience.
+💻 **Computer Engineering Student** at Ecole Polytechnique de Sousse  
+🤖 Exploring **Machine Learning & Deep Learning**  
+🔎 Passionate Learner (Python, TensorFlow, PyTorch)  
+💡 Curious Innovator | ☘️ Problem Solver | 🚀 Open to AI Internships & Part-Time Roles  
+🌍 IEEE Volunteer | Member at **IEEE EPS Student Branch**
 
 ---
 
-## 📫 **How to Reach Me**
+## 🔗 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anismselmi490@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-mselmi/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-<div align="center">
+---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>](mailto:anismselmi490@gmail.com) 
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/anis-mselmi-441b39326/)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="40" alt="Discord"/>](https://discord.com/users/anismselmi_14775)
+## 🎓 Education  
+- **Computer Engineering Student**  
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/Logo-Polytec-Eurace-bleu-01.png" alt="Polytechnique de Sousse" width="200"/>  
+  **Ecole Polytechnique de Sousse** (EUR-ACE Accredited)
 
-</div>
+---
 
+## 🛠️ Skills & Tools  
 
-
-
-
-
-
-
-
-
-
+### Languages & Frameworks  
 <p>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-       alt="Developer Illustration" 
-       width="450"/>
-</p>
-
-</div>
-
-
-
-
----
-
-## ⚙️ Languages & Tools  
-
-<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>  
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" alt="Google Colab"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
+### AI / Data Science  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+### Development Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+### Design & Collaboration  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+</p>
 
 ---
 
+## 📂 Featured Projects
+- 🔬 [AI & ML Projects](https://github.com/your-username?tab=repositories&q=AI)  
+- 📊 [Data Science Experiments](https://github.com/your-username?tab=repositories&q=data)  
+- 🌱 [Open Source Contributions](https://github.com/your-username?tab=repositories&q=open-source)  
 
-## 📗 NVIDIA Certificates
+---
 
-<table>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA.._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA..._page-0001.jpg" width="300"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA...._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA....._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA......_page-0001.jpg" width="300"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA......._page-0001.jpg" width="300"></td>
-    <td align="center">
-      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="300">
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
-
-
-
-
-<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
-
-<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
-<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
-
-
-
-
+✨ _“Curiosity drives innovation, and persistence builds solutions.”_ ✨
