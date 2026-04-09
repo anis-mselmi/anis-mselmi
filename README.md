@@ -27,7 +27,7 @@
   <img src="a.png" alt="Cover Image" width="100%" />
 </div>
 <p align="center">
-  <img src="./anis_terminal.svg" width="900"/>
+  <img src="./anis_terminal.gif" width="900"/>
 </p>
 
 
