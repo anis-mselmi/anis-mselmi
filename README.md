@@ -170,9 +170,9 @@
 
 | Choose your language | Flags |
 |---------------------|-------|
-| English | <img width="40" src="./USA.png"> |
-| French  | <img width="40" src="./France.png"> |
-| Arabic  | <img width="40" src="./saudi_ arabia.jpg"> |
+| English | <img width="80" src="./USA.png"> |
+| French  | <img width="80" src="./France.png"> |
+| Arabic  | <img width="80" src="./saudi_ arabia.jpg"> |
 
 </div>
 
