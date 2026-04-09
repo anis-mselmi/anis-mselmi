@@ -8,12 +8,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00BFFF&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
   <img src="https://img.shields.io/badge/Repos-?color=00BFFF&style=flat&labelColor=grey"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Daily-00C853?style=for-the-badge"/>
