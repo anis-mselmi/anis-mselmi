@@ -4,11 +4,6 @@
 
 </div>
 
-<h1 align="center">👨‍💻 Welcome To My GitHub Space</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Anis+Mselmi;AI+Enthusiast;Cybersecurity+Learner;Future+Engineer" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
