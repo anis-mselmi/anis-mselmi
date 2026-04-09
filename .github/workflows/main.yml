@@ -5,6 +5,8 @@ permissions:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "47 2 * * *"
 
 jobs:
   build:
@@ -27,7 +29,7 @@ jobs:
           cd github-stats-terminal-style
           npm install
           npm run build
-          node dist/bin/github-stats-terminal.js anis-mselmi dracula || echo "SVG generation failed"
+          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js ${{ github.repository_owner }} dracula || echo "SVG generation failed"
 
       - name: Copy SVG if exists
         run: |
