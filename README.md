@@ -129,6 +129,7 @@
     <td align="center"></td>
   </tr>
 </table>
+
 ---
  
  ## 📊 GitHub Profile Stats 
@@ -143,9 +144,7 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
       alt="Top Langs by repo" />
       
-    <img width="45%" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
-      alt="Top Langs by commit" />
+    
   </a>
 </p>
 
