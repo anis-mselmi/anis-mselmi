@@ -52,7 +52,7 @@
 
 ## 🤖 Mastering Machine Learning & Deep Learning and 💻 Building Applications with Python and Web Tools are core to my work. I focus on 🧩 Applying AI in Real-World Solutions, turning theoretical models into practical applications. I am currently 🔍 Open to Internships & Part-Time AI Projects to further expand my experience.
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=default)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=default)](https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=react-dark)
 ---
 
 ## 📫 **How to Reach Me**
