@@ -16,9 +16,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Daily-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Night%20Coder-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Coffee%20Driven-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 
