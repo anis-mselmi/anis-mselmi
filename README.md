@@ -1,24 +1,14 @@
-<div align="center">
-
-# 🥞 Welcome To My GitHub Space
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Enthusiast-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Learner-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-00C853?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-00C853?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=👨‍💻+Anis+Mselmi;⚡+Code.+Build.+Repeat." />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
+  <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
+</p>
+
+
+
 <div align="center">
   <img src="a.png" alt="Cover Image" width="100%" />
 </div>
