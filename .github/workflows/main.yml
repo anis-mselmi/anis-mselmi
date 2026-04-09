@@ -14,12 +14,21 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate SVG
-        run: npx github-stats-terminal-style anis-mselmi dracula
+        run: |
+          npx github-stats-terminal-style anis-mselmi dracula || echo "generation failed"
+
+      - name: Check file
+        run: |
+          ls -la
 
       - name: Commit SVG
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add github_stats.svg
-          git commit -m "update stats" || echo "no changes"
-          git push
+          if [ -f github_stats.svg ]; then
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+            git add github_stats.svg
+            git commit -m "update stats" || echo "no changes"
+            git push
+          else
+            echo "github_stats.svg not found ❌"
+          fi
