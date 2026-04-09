@@ -20,31 +20,22 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
-      - name: Use Node.js 20
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          # cache: npm  # disabled because repo has no lockfile; add package-lock.json to enable
-
-      - name: Install requirements
-        run: npm install
-
-      - name: Build
-        run: npm run build
-
-      - name: Generate Terminal SVG
-        run: |
-          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js anis-mselmi dracula
-        env:
-          GHT: ${{ secrets.GHT }}
+      # Repo has no package.json, so npm install/build will always fail.
+      - name: Skip Node build (no package.json in repo)
+        run: echo "No Node project detected; skipping npm/build."
 
       - name: Github Configurations
         run: |
           git config --global user.name "Github Actions"
           git config --global user.email "action@github.com"
 
-      - name: Commit generated terminal SVG
+      - name: Commit generated terminal SVG (if present)
         run: |
+          if [ ! -f github_stats.svg ]; then
+            echo "github_stats.svg not found; nothing to commit."
+            exit 0
+          fi
+
           git add github_stats.svg
           git commit -m "Github Stats updated 🎉" || echo "No changes to commit"
           git push
