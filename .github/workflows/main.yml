@@ -15,29 +15,39 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Clone generator repo
-        run: |
-          git clone https://github.com/yogeshwaran01/github-stats-terminal-style.git
+        run: git clone https://github.com/yogeshwaran01/github-stats-terminal-style.git
 
-      - name: Install dependencies
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install + Build + Generate
         run: |
           cd github-stats-terminal-style
           npm install
-
-      - name: Build project
-        run: |
-          cd github-stats-terminal-style
           npm run build
+          node dist/bin/github-stats-terminal.js anis-mselmi dracula || echo "SVG generation failed"
 
-      - name: Generate SVG
+      - name: Copy SVG if exists
         run: |
-          cd github-stats-terminal-style
-          node dist/bin/github-stats-terminal.js anis-mselmi dracula
-          cp github_stats.svg ../
+          if [ -f github-stats-terminal-style/github_stats.svg ]; then
+            cp github-stats-terminal-style/github_stats.svg ./
+          else
+            echo "❌ SVG NOT GENERATED"
+          fi
 
-      - name: Commit SVG
+      - name: Show files (debug)
+        run: ls -la
+
+      - name: Commit SVG (only if exists)
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add github_stats.svg
-          git commit -m "update stats" || echo "no changes"
-          git push
+          if [ -f github_stats.svg ]; then
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+            git add github_stats.svg
+            git commit -m "update stats" || echo "no changes"
+            git push
+          else
+            echo "❌ Nothing to commit"
+          fi
