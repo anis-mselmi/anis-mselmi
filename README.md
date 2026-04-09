@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/repos/anis-mselmi?label=Repos&color=00C853" />
 </p>
 
 
