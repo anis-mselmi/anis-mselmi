@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./Logo minimaliste avec une ligne diagonale.png" width="200"/>
+  <img src="./Logo%20minimaliste%20avec%20une%20ligne%20diagonale.png" width="400"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=👨‍💻+Anis+Mselmi;⚡+Code.+Build.+Repeat." />
