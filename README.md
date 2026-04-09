@@ -4,7 +4,11 @@
 
 </div>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Learner-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-00C853?style=for-the-badge&logo=django&logoColor=white"/>
