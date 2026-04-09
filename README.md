@@ -159,7 +159,7 @@
 |---------------------|-------|
 | English | <img width="40" src="./USA.png"> |
 | French  | <img width="40" src="./France.png"> |
-| Arabic  | <img width="40" src="./saudi_arabia.jpg"> |
+| Arabic  | <img width="40" src="./saudi_ arabia.jpg"> |
 ---
 
 ## ☕ Support Me
