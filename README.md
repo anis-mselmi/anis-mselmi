@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="./anis_terminal_loop.gif" width="900"/>
+  <img src="./anis_terminal_loop.gif" width="700"/>
 </p>
 
 
