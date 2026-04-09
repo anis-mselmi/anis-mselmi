@@ -23,9 +23,7 @@
 
 
 
-<div align="center">
-  <img src="a.png" alt="Cover Image" width="100%" />
-</div>
+
 <p align="center">
   <img src="./anis_terminal_loop.gif" width="900"/>
 </p>
