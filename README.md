@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
   <img src="https://img.shields.io/badge/Repos-My%20Projects-00BFFF?style=flat"/>
+  <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
 </p>
 
 
