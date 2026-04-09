@@ -155,13 +155,11 @@
 ---
 
 ## 🌍 Languages I Speak
-
-| Choose your language         | Flags                                                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| English       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| French | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| Arabic | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
-
+| Choose your language | Flags |
+|---------------------|-------|
+| English | <img width="15%" src="./assets/images/flags/USA.png" /> |
+| French  | <img width="15%" src="./assets/images/flags/France.png" /> |
+| Arabic  | <img width="15%" src="./assets/images/flags/saudi_arabia.jpg" /> |
 ---
 
 ## ☕ Support Me
