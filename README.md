@@ -86,7 +86,11 @@
 
 ---
 
-## ⚙️ Languages & Tools  
+<div align="center">
+
+## ⚙️ Languages & Tools
+
+</div>
 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -111,7 +115,11 @@
 ---
 
 
+<div align="center">
+
 ## 📗 NVIDIA Certificates
+
+</div>
 
 <table>
   <tr>
@@ -166,7 +174,9 @@
 | Arabic  | <img width="40" src="./saudi_ arabia.jpg"> |
 
 </div>
+
 ---
+
 
 ## ☕ Support Me
 
