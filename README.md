@@ -130,9 +130,8 @@
   </tr>
 </table>
 ---
-<summary>  
-  <img src="./assets/giphy.gif" width="30px" alt="Git"/> GitHub Profile Stats 
-</summary>
+ 
+ ## 📊 GitHub Profile Stats 
 
 <div>
 <samp>
@@ -153,13 +152,7 @@
 <br/>
 </samp>
 </div>
-<p align="center">
-  <img width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=gruvbox&hide_border=true" />
-    
-  <img width="49%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=gruvbox&hide_border=true" />
-</p>
+
 
 ---
 
