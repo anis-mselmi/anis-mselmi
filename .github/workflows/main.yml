@@ -29,7 +29,8 @@ jobs:
           cd github-stats-terminal-style
           npm install
           npm run build
-          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js ${{ github.repository_owner }} dracula || echo "SVG generation failed"
+          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js "anis-mselmi" dracula
+          
 
       - name: Copy SVG if exists
         run: |
