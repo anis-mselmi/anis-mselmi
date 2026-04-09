@@ -168,11 +168,11 @@
 
 ## 🌍 Languages I Speak
 
-| Choose your language | Flags |
-|---------------------|-------|
-| English | <img width="80" src="./USA.png"> |
-| French  | <img width="80" src="./France.png"> |
-| Arabic  | <img width="80" src="./saudi_ arabia.jpg"> |
+| Choose your language                | Flags |
+|------------------------------------|-------|
+| English (Fluent Language)          | <img width="80" src="./USA.png"> |
+| French (Professional Proficiency)  | <img width="80" src="./France.png"> |
+| Arabic (Native Language)           | <img width="80" src="./saudi_ arabia.jpg"> |
 
 </div>
 
