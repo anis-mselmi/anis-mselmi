@@ -1,20 +1,6 @@
-<div align="center">
-
-# 🥞 Welcome To My GitHub Space
-
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
+<p align="center">
+  <img src="./Logo minimaliste avec une ligne diagonale.png" width="200"/>
+</p>
 
 
 <p align="center">
