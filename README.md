@@ -10,9 +10,11 @@
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
 
-<img src="https://img.shields.io/badge/Coding%20Daily-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Night%20Coder-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coffee%20Driven-00BFFF?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Daily-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Night%20Coder-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coffee%20Driven-00C853?style=for-the-badge"/>
+</p>
 
 
 
