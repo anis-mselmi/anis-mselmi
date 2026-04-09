@@ -157,9 +157,9 @@
 ## 🌍 Languages I Speak
 | Choose your language | Flags |
 |---------------------|-------|
-| English | <img width="40" src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/images/flags/USA.png" /> |
-| French  | <img width="40" src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/images/flags/France.png" /> |
-| Arabic  | <img width="40" src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/images/flags/saudi_arabia.jpg" /> |
+| English | <img width="40" src="./USA.png"> |
+| French  | <img width="40" src="./France.png"> |
+| Arabic  | <img width="40" src="./saudi_arabia.jpg"> |
 ---
 
 ## ☕ Support Me
