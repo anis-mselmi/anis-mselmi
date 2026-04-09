@@ -1,0 +1,56 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update Github Stats
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "47 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true 
+          fetch-depth: 0
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v3
+        with: 
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install requirements
+        run: |
+          npm install
+
+      - name: Build
+        run: |
+          npm run build
+          
+      - name: Generate Terminal SVG
+        run: |
+          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js anis-mselmi dracula
+        env:
+          GHT: ${{ secrets.GHT }}
+          
+      - name: Github Configurations
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "action@github.com"
+
+      - name: commiting generated terminal SVG
+        run: |
+          git add github_stats.svg
+          git commit -m "Github Stats updated 🎉" 
+          git push
