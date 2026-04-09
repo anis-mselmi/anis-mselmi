@@ -10,9 +10,10 @@
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
-  <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
+  <img src="https://img.shields.io/badge/Repos-?color=00BFFF&style=flat&labelColor=grey"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi"/>
 </p>
 
 <p align="center">
