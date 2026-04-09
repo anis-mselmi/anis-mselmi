@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-00C853?style=for-the-badge&logo=brain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python%20Developer-00C853?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
