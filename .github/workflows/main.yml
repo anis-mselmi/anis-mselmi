@@ -29,6 +29,7 @@ jobs:
           cd github-stats-terminal-style
           npm install
           npm run build
+          echo "Username is: anis-mselmi"
           GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js "anis-mselmi" dracula
           
 
