@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo%20minimaliste%20avec%20une%20ligne%20diagonale.png" width="400"/>
+  <img src="./Logo%20minimaliste%20avec%20une%20ligne%20diagonale.png" width="300"/>
 </p>
 
 <p align="center">
