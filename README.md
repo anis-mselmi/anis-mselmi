@@ -6,20 +6,22 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00BFFF&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-00C853?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-00C853?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-00BFFF?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-00BFFF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-00BFFF?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-00C853?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-00C853?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00BFFF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-00BFFF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 
