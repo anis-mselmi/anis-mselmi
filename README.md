@@ -135,7 +135,9 @@
 
 ---
  
- ## 📊 GitHub Profile Stats 
+<div align="center">
+
+## 📊 GitHub Profile Stats 
 
 <div>
 <samp>
@@ -146,8 +148,6 @@
     <img width="45%" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
       alt="Top Langs by repo" />
-      
-    
   </a>
 </p>
 
@@ -158,11 +158,14 @@
 ---
 
 ## 🌍 Languages I Speak
+
 | Choose your language | Flags |
 |---------------------|-------|
 | English | <img width="40" src="./USA.png"> |
 | French  | <img width="40" src="./France.png"> |
 | Arabic  | <img width="40" src="./saudi_ arabia.jpg"> |
+
+</div>
 ---
 
 ## ☕ Support Me
