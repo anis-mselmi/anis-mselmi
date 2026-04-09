@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Anis+Mselmi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=👨‍💻+Anis+Mselmi;⚡+Code.+Build.+Repeat." />
 </p>
 <div align="center">
   <img src="a.png" alt="Cover Image" width="100%" />
