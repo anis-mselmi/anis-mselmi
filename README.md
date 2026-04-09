@@ -178,7 +178,11 @@
 ---
 
 
+<div align="center">
+
 ## ☕ Support Me
+
+</div>
 
 <p align="center">
   <a href="https://buymeacoffee.com/anis_mselmi">
