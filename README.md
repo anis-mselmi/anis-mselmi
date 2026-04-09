@@ -17,10 +17,9 @@
 <div align="center">
 
 
-# 👋 Hi, I'm **Anis Mselmi**
-<div align="center">
-  <img src="a.png" alt="Cover Image" width="100%" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Anis+Mselmi;Software+Engineer;AI+Enthusiast" />
+</p>
 
 
 
