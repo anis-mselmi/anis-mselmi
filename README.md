@@ -6,10 +6,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
-  <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social" />
-  <img src="https://img.shields.io/github/repos/anis-mselmi?label=Repos&color=00C853" />
+  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-00C853?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-00C853?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 
