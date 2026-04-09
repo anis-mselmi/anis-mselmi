@@ -20,6 +20,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Anis+Mselmi" />
 </p>
+<div align="center">
+  <img src="a.png" alt="Cover Image" width="100%" />
+</div>
 
 
 
