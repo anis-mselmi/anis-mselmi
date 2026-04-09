@@ -26,6 +26,9 @@
 <div align="center">
   <img src="a.png" alt="Cover Image" width="100%" />
 </div>
+<p align="center">
+  <img src="./github_stats.svg?v=latest" />
+</p>
 
 
 
