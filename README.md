@@ -129,7 +129,37 @@
     <td align="center"></td>
   </tr>
 </table>
+---
+<summary>  
+  <img src="./assets/giphy.gif" width="30px" alt="Git"/> GitHub Profile Stats 
+</summary>
 
+<div>
+<samp>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/anis-mselmi">
+    <img width="45%" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
+      alt="Top Langs by repo" />
+      
+    <img width="45%" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
+      alt="Top Langs by commit" />
+  </a>
+</p>
+
+<br/>
+</samp>
+</div>
+<p align="center">
+  <img width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&show_icons=true&theme=gruvbox&hide_border=true" />
+    
+  <img width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anis-mselmi&theme=gruvbox&hide_border=true" />
+</p>
 ---
 ## ☕ Support Me
 
