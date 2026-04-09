@@ -4,17 +4,16 @@
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<h1 align="center">👨‍💻 Welcome To My GitHub Space</h1>
 
-<div style="flex: 1;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Anis+Mselmi;AI+Enthusiast;Cybersecurity+Learner;Future+Engineer" />
+</p>
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
+  <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=👨‍💻+Anis+Mselmi;⚡+Code.+Build.+Repeat." />
