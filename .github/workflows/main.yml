@@ -29,9 +29,12 @@ jobs:
           cd github-stats-terminal-style
           npm install
           npm run build
-          echo "Username is: anis-mselmi"
-          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js "anis-mselmi" dracula
-          
+
+          # 🔥 FORCE correct username inside compiled file
+          sed -i 's/yogeshwaran01/anis-mselmi/g' dist/bin/github-stats-terminal.js
+
+          # Run generator
+          GHT=${{ secrets.GHT }} node dist/bin/github-stats-terminal.js anis-mselmi dracula
 
       - name: Copy SVG if exists
         run: |
@@ -40,9 +43,6 @@ jobs:
           else
             echo "❌ SVG NOT GENERATED"
           fi
-
-      - name: Show files (debug)
-        run: ls -la
 
       - name: Commit SVG (only if exists)
         run: |
