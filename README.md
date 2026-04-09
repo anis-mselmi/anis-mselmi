@@ -9,9 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=👨‍💻+Anis+Mselmi;⚡+Code.+Build.+Repeat." />
