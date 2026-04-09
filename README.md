@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00BFFF&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00C853&style=flat" />
+  <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Daily-00C853?style=for-the-badge"/>
