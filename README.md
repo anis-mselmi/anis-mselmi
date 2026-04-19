@@ -31,14 +31,10 @@
 
 
 
-## 🎓 Computer Engineering Student | 🤖 AI & ML Enthusiast | 💻 Software and AI Student
 
-<p align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="250">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/homercat.png" width="250">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif" width="250">
-</p>
-<br><br>
+---
+
+
 
 <h2>😎 I'm Anis!</h2>
 <p><em>AI Developer / Computer Vision Enthusiast</em></p>
