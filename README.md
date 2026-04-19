@@ -199,6 +199,7 @@
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
@@ -210,10 +211,47 @@
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi/SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking">
+          <img align="center" width="470" 
+               src="https://github-readme-stats.vercel.app/api/pin/?username=anis-mselmi&repo=SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking&theme=default&show_owner=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
+               alt="SmartParkTN Project" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi">
+          <img align="center" 
+               src="https://github-contributor-stats.vercel.app/api?username=anis-mselmi&limit=2&theme=default&combine_all_yearly_contributions=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
+               alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+
+<br />
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img 
+         src="https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&bg_color=e6f0ff&color=003366&line=3399ff&point=3399ff&area=false&hide_border=false" 
+         border-radius="15">
+</div>
+
+
 
 
 ---
+
 
 
 
