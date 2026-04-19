@@ -31,7 +31,7 @@
 
 <h1>😎 I'm Anis!</h1>
 
-<h2><em>AI Developer / Computer Vision Enthusiast</em></h2>
+<h2><em>AI Developer | LLMs • RAG • Machine Learning</em></h2>
 
 <img align="right" 
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
@@ -41,21 +41,19 @@
 <br>
 
 <p>
-I’m passionate about building intelligent systems and real-world AI solutions. 
-I enjoy turning ideas into practical applications using machine learning and computer vision.
+I’m passionate about building intelligent systems powered by large language models. 
+I focus on creating practical AI applications using RAG pipelines, embeddings, and modern ML techniques.
 </p>
 
 <ul>
-  <li>🤖 Focused on <strong>Artificial Intelligence & Machine Learning</strong></li>
-  <li>👁️ Working on <strong>Computer Vision projects</strong> (ALPR, detection systems)</li>
-  <li>💻 Building applications with <strong>Python & modern technologies</strong></li>
-  <li>🚀 Always learning and improving through hands-on projects</li>
-  <li>🌍 Interested in solving real-world problems with AI</li>
+  <li>🧠 Working with <strong>LLMs (OpenAI, open-source models)</strong></li>
+  <li>📚 Building <strong>RAG pipelines</strong> (embeddings, vector databases, retrieval systems)</li>
+  <li>⚙️ Developing <strong>ML-powered applications</strong> with Python</li>
+  <li>🚀 Optimizing prompts and improving <strong>AI system performance</strong></li>
+  <li>🌍 Turning AI ideas into <strong>real-world tools</strong></li>
 </ul>
 
 <br clear="right"/>
-
-
 
 
 
