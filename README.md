@@ -36,12 +36,12 @@
 
 
 
-<h2>😎 I'm Anis!</h2>
+<h1>😎 I'm Anis!</h1>
 <p><em>AI Developer / Computer Vision Enthusiast</em></p>
 
 <img align="right" 
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-     width="300" 
+     width="400" 
      alt="Developer Illustration"/>
 
 <p>
