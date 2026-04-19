@@ -64,13 +64,20 @@
 
 <div align="center">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>](mailto:anismselmi490@gmail.com) 
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/anis-mselmi-441b39326/)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="40" alt="Discord"/>](https://discord.com/users/anismselmi_14775)
+<a href="mailto:anismselmi490@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="anismselmi490@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/anis_mselmi/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="anis_mselmi" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
 </div>
+<br/>
 
 
 
