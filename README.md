@@ -24,13 +24,6 @@
 
 
 
-<p align="center">
-  <img src="./anis_terminal_loop.gif" width="700"/>
-</p>
-
-
-
-
 
 ---
 
@@ -62,17 +55,6 @@ I enjoy turning ideas into practical applications using machine learning and com
 <br clear="right"/>
 
 
-
----
-
-<div align="center">
-
-## 🚀 What I'm Up To
-
-### 🤖 Mastering Machine Learning & Deep Learning and 💻 Building Applications with Python and Web Tools are core to my work. I focus on 🧩 Applying AI in Real-World Solutions, turning theoretical models into practical applications. I am currently 🔍 Open to Internships & Part-Time AI Projects to further expand my experience.
- <td width="50%" align="center">
-  <img src="./Skills_Animation_Dark.gif" width="30%" alt="Skills Animation"/>
- </td>
 
 
 
@@ -113,15 +95,6 @@ I enjoy turning ideas into practical applications using machine learning and com
 
 
 
-
-
-<p>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-       alt="Developer Illustration" 
-       width="450"/>
-</p>
-
-</div>
 
 
 
@@ -300,7 +273,27 @@ I enjoy turning ideas into practical applications using machine learning and com
 
 <div align="center">
 
-## ☕ Support Me
+## ☕ How to Reach Me
+<div align="center">
+
+<a href="mailto:anismselmi490@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="anismselmi490@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/anis_mselmi/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="anis_mselmi" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/anis-mselmi" target="_blank">
+  <img src="./github.png" width="50" height="50" alt="anis-mselmi" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
 
 </div>
 
