@@ -40,7 +40,28 @@
 </p>
 <br><br>
 
+<h2>😎 I'm Anis!</h2>
+<p><em>AI Developer / Computer Vision Enthusiast</em></p>
 
+<img align="right" 
+     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+     width="300" 
+     alt="Developer Illustration"/>
+
+<p>
+I’m passionate about building intelligent systems and real-world AI solutions. 
+I enjoy turning ideas into practical applications using machine learning and computer vision.
+</p>
+
+<ul>
+  <li>🤖 Focused on <strong>Artificial Intelligence & Machine Learning</strong></li>
+  <li>👁️ Working on <strong>Computer Vision projects</strong> (ALPR, detection systems)</li>
+  <li>💻 Building applications with <strong>Python & modern technologies</strong></li>
+  <li>🚀 Always learning and improving through hands-on projects</li>
+  <li>🌍 Interested in solving real-world problems with AI</li>
+</ul>
+
+<br clear="right"/>
 
 
 
