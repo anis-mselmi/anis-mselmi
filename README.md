@@ -59,44 +59,6 @@ I enjoy turning ideas into practical applications using machine learning and com
 
 
 
----
-
-
-
-
-## 📫 **How to Reach Me**
-
-<div align="center">
-
-<a href="mailto:anismselmi490@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="anismselmi490@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/anis_mselmi/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="anis_mselmi" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/anis-mselmi" target="_blank">
-  <img src="./github.png" width="50" height="50" alt="anis-mselmi" style="margin-bottom: 5px;" />
-</a>
-
-</div>
-<br/>
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
