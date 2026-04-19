@@ -180,28 +180,42 @@
 </table>
 
 ---
- 
+
+
+
 <div align="center">
 
 ## 📊 GitHub Profile Stats 
 
-<div>
-<samp>
-<br/>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi">
+          <img align="center" 
+               src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&count_private=true&show_icons=true&theme=default&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366&icon_color=3399ff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+               alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi">
+          <img align="center" 
+               src="https://streak-stats.demolab.com?user=anis-mselmi&theme=default&background=0,e6f0ff,b3d1ff&ring=3399ff&fire=3399ff&currStreakNum=003366&sideNums=003366&currStreakLabel=3399ff&sideLabels=3399ff&dates=003366" 
+               alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/anis-mselmi">
-    <img width="45%" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anis-mselmi&theme=gruvbox&layout=compact&hide_border=true" 
-      alt="Top Langs by repo" />
-  </a>
-</p>
-
-<br/>
-</samp>
-</div>
 
 ---
+
+
 
 ## 🌍 Languages I Speak
 
