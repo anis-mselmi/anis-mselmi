@@ -66,6 +66,7 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
+    <!-- AI / Python Core -->
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/></td>
@@ -79,29 +80,31 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
   </tr>
 
   <tr>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/></td>
+    <!-- Tools / Platforms -->
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45"/></td>
   </tr>
 
   <tr>
+    <!-- Databases -->
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/></td>
     <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/></td>
+    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></td>
   </tr>
 </table>
 
