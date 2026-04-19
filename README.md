@@ -84,6 +84,10 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://github.com/anis-mselmi" target="_blank">
+  <img src="./github.png" width="50" height="50" alt="anis-mselmi" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 <br/>
 
