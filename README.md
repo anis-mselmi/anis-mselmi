@@ -141,22 +141,14 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
   </tr>
   <table width="100%">
   <tr>
-    <!-- Latest Project -->
+    <table width="100%">
+  <tr>
     <td width="50%" align="center">
       <h3><strong>Latest Project</strong></h3>
       <a href="https://github.com/anis-mselmi/SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking">
         <img width="470"
           src="https://github-readme-stats.vercel.app/api/pin/?username=anis-mselmi&repo=SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking&theme=default&show_owner=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
           alt="Latest Project" />
-      </a>
-    </td>
-     <!-- Top Contributions -->
-    <td width="50%" align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/anis-mselmi">
-        <img 
-          src="https://github-contributor-stats.vercel.app/api?username=anis-mselmi&limit=2&theme=default&combine_all_yearly_contributions=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
-          alt="Top Contributions" />
       </a>
     </td>
   </tr>
