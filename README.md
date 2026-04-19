@@ -52,7 +52,7 @@
 
 ### 🤖 Mastering Machine Learning & Deep Learning and 💻 Building Applications with Python and Web Tools are core to my work. I focus on 🧩 Applying AI in Real-World Solutions, turning theoretical models into practical applications. I am currently 🔍 Open to Internships & Part-Time AI Projects to further expand my experience.
  <td width="50%" align="center">
-  <img src="Skills_Animation_Dark.gif" width="50%" alt="Skills Animation"/>
+  <img src="./Skills_Animation_Dark.gif" width="30%" alt="Skills Animation"/>
  </td>
 
 
