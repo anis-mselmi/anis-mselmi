@@ -56,10 +56,6 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 <br clear="right"/>
 
 
-
-
-
-
 ---
 
 <div align="center">
