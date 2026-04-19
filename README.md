@@ -118,46 +118,47 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 
 ## 📊 GitHub Profile Stats 
 
-</div>
-
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45"/></td>
+    <!-- GitHub Stats -->
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/anis-mselmi">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&count_private=true&show_icons=true&theme=default&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366&icon_color=3399ff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+          alt="GitHub Stats" />
+      </a>
+    </td>
+      <!-- Streak Stats -->
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/anis-mselmi">
+        <img 
+          src="https://streak-stats.demolab.com?user=anis-mselmi&theme=default&background=0,e6f0ff,b3d1ff&ring=3399ff&fire=3399ff&currStreakNum=003366&sideNums=003366&currStreakLabel=3399ff&sideLabels=3399ff&dates=003366" 
+          alt="Streak Stats" />
+      </a>
+    </td>
   </tr>
-
+  <table width="100%">
   <tr>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/></td>
-    <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45"/></td>
+    <!-- Latest Project -->
+    <td width="50%" align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/anis-mselmi/SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking">
+        <img width="470"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=anis-mselmi&repo=SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking&theme=default&show_owner=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
+          alt="Latest Project" />
+      </a>
+    </td>
+     <!-- Top Contributions -->
+    <td width="50%" align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/anis-mselmi">
+        <img 
+          src="https://github-contributor-stats.vercel.app/api?username=anis-mselmi&limit=2&theme=default&combine_all_yearly_contributions=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
+          alt="Top Contributions" />
+      </a>
+    </td>
   </tr>
 </table>
 
