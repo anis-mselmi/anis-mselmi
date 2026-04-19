@@ -114,6 +114,68 @@ I enjoy turning ideas into practical applications using machine learning and com
 ---
 
 
+
+<div align="center">
+
+## 📊 GitHub Profile Stats 
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi">
+          <img align="center" 
+               src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&count_private=true&show_icons=true&theme=default&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366&icon_color=3399ff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+               alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anis-mselmi">
+          <img align="center" 
+               src="https://streak-stats.demolab.com?user=anis-mselmi&theme=default&background=0,e6f0ff,b3d1ff&ring=3399ff&fire=3399ff&currStreakNum=003366&sideNums=003366&currStreakLabel=3399ff&sideLabels=3399ff&dates=003366" 
+               alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <!-- Latest Project -->
+    <td width="50%" align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/anis-mselmi/SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking">
+        <img width="470"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=anis-mselmi&repo=SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking&theme=default&show_owner=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
+          alt="Latest Project" />
+      </a>
+    </td>
+
+    
+    
+  </tr>
+</table>
+
+
+
+---
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=react-dark&hide_border=true&area=true" style="width:100%; max-width:1200px;"/>
+</p>
+
+
+
+---
+
+
 <div align="center">
 
 ## 📗 NVIDIA Certificates
