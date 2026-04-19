@@ -44,6 +44,8 @@
      width="400" 
      alt="Developer Illustration"/>
 
+<br><br><br>
+
 <p>
 I’m passionate about building intelligent systems and real-world AI solutions. 
 I enjoy turning ideas into practical applications using machine learning and computer vision.
