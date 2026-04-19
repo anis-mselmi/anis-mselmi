@@ -139,9 +139,7 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
       </a>
     </td>
   </tr>
-  <table width="100%">
-  <tr>
-    <table width="100%">
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3><strong>Latest Project</strong></h3>
