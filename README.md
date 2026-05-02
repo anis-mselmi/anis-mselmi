@@ -183,7 +183,7 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
   </tr>
   <tr>
     <td>Arabic (Native Language)</td>
-    <td><img width="80" src="./saudi_arabia.jpg"></td>
+    <td><img width="80" src="./saudi_ arabia.jpg"></td>
   </tr>
 </table>
 
