@@ -109,51 +109,11 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 </table>
 
 
----
-
-
-
-<div align="center">
-
-## 📊 GitHub Profile Stats 
-
-<table width="100%">
-  <tr>
-    <!-- GitHub Stats -->
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/anis-mselmi">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=anis-mselmi&count_private=true&show_icons=true&theme=default&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366&icon_color=3399ff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
-          alt="GitHub Stats" />
-      </a>
-    </td>
-      <!-- Streak Stats -->
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/anis-mselmi">
-        <img 
-          src="https://streak-stats.demolab.com?user=anis-mselmi&theme=default&background=0,e6f0ff,b3d1ff&ring=3399ff&fire=3399ff&currStreakNum=003366&sideNums=003366&currStreakLabel=3399ff&sideLabels=3399ff&dates=003366" 
-          alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/anis-mselmi/SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking">
-        <img width="470"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=anis-mselmi&repo=SmartParkTN-D-tection-automatique-des-plaques-tunisiennes-ALPR-pour-parking&theme=default&show_owner=true&bg_color=0,e6f0ff,b3d1ff&title_color=3399ff&text_color=003366" 
-          alt="Latest Project" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 ---
+
+
 
 
 ## 📈 Contribution Graph
