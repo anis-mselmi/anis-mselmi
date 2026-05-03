@@ -116,7 +116,11 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 
 
 
+<div align="center">
+
 ## 📈 Contribution Graph
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=react-dark&hide_border=true&area=true" style="width:100%; max-width:1200px;"/>
