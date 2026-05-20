@@ -168,35 +168,6 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 
 
 
-<div align="center">
-
-## 🌍 Languages I Speak
-
-<table>
-  <tr>
-    <th>Choose your language</th>
-    <th>Flags</th>
-  </tr>
-  <tr>
-    <td>English (Fluent Language)</td>
-    <td><img width="80" src="./USA.png"></td>
-  </tr>
-  <tr>
-    <td>French (Professional Proficiency)</td>
-    <td><img width="80" src="./France.png"></td>
-  </tr>
-  <tr>
-    <td>Arabic (Native Language)</td>
-    <td><img width="80" src="./saudi_ arabia.jpg"></td>
-  </tr>
-</table>
-
-</div>
-
-
-
----
-
 
 <div align="center">
 
