@@ -111,51 +111,10 @@ I focus on creating practical AI applications using RAG pipelines, embeddings, a
 
 
 
----
 
 
 
 
-<div align="center">
-
-## 📈 Contribution Graph
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&theme=react-dark&hide_border=true&area=true" style="width:100%; max-width:1200px;"/>
-</p>
-
-
-
----
-
-
-<div align="center">
-
-## 📗 NVIDIA Certificates
-
-</div>
-
-<table>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA.._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA..._page-0001.jpg" width="300"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA...._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA....._page-0001.jpg" width="300"></td>
-    <td align="center"><img src="My Learning _ NVIDIA......_page-0001.jpg" width="300"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="My Learning _ NVIDIA......._page-0001.jpg" width="300"></td>
-    <td align="center">
-      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="300">
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
 
 
 
