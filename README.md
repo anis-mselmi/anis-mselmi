@@ -41,17 +41,14 @@
 <br>
 
 <p>
-  I’m passionate about building and deploying intelligent systems powered by large language models. 
-  I focus on bridging the gap between AI development and operations, creating practical applications using RAG pipelines and ensuring they run reliably in production environments.
+  I build and deploy scalable AI systems, blending large language models with modern DevOps. I focus on turning RAG pipelines and ML concepts into reliable, production-ready applications.
 </p>
 
 <ul>
-  <li>🧠 Working with <strong>LLMs (OpenAI, open-source models)</strong> and integrating them into scalable architectures</li>
-  <li>📚 Building <strong>RAG pipelines</strong> (embeddings, vector databases) and optimizing retrieval systems</li>
-  <li>⚙️ Developing <strong>ML-powered applications</strong> with Python and streamlining delivery via <strong>CI/CD pipelines</strong></li>
-  <li>🐧 Managing containerized infrastructure and environments using <strong>Docker and Linux/WSL</strong></li>
-  <li>🚀 Optimizing <strong>AI system performance</strong> from prompt engineering to backend infrastructure</li>
-  <li>🌍 Turning AI concepts into <strong>reliable, real-world tools</strong> that scale</li>
+  <li>🧠 Integrating <strong>LLMs & RAG pipelines</strong> into scalable architectures</li>
+  <li>⚙️ Developing Python <strong>ML apps</strong> and automating delivery via <strong>CI/CD</strong></li>
+  <li>🐧 Managing containerized deployments using <strong>Docker & Linux</strong></li>
+  <li>🚀 Optimizing full-stack performance, from <strong>prompts to infrastructure</strong></li>
 </ul>
 
 <br clear="right"/>
