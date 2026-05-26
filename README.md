@@ -31,7 +31,7 @@
 
 <h1>😎 I'm Anis!</h1>
 
-<h2><em>AI Developer | LLMs • RAG • Machine Learning</em></h2>
+<h2><em>AI & DevOps Developer | LLMs • RAG • Machine Learning</em></h2>
 
 <img align="right" 
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
@@ -41,16 +41,17 @@
 <br>
 
 <p>
-I’m passionate about building intelligent systems powered by large language models. 
-I focus on creating practical AI applications using RAG pipelines, embeddings, and modern ML techniques.
+  I’m passionate about building and deploying intelligent systems powered by large language models. 
+  I focus on bridging the gap between AI development and operations, creating practical applications using RAG pipelines and ensuring they run reliably in production environments.
 </p>
 
 <ul>
-  <li>🧠 Working with <strong>LLMs (OpenAI, open-source models)</strong></li>
-  <li>📚 Building <strong>RAG pipelines</strong> (embeddings, vector databases, retrieval systems)</li>
-  <li>⚙️ Developing <strong>ML-powered applications</strong> with Python</li>
-  <li>🚀 Optimizing prompts and improving <strong>AI system performance</strong></li>
-  <li>🌍 Turning AI ideas into <strong>real-world tools</strong></li>
+  <li>🧠 Working with <strong>LLMs (OpenAI, open-source models)</strong> and integrating them into scalable architectures</li>
+  <li>📚 Building <strong>RAG pipelines</strong> (embeddings, vector databases) and optimizing retrieval systems</li>
+  <li>⚙️ Developing <strong>ML-powered applications</strong> with Python and streamlining delivery via <strong>CI/CD pipelines</strong></li>
+  <li>🐧 Managing containerized infrastructure and environments using <strong>Docker and Linux/WSL</strong></li>
+  <li>🚀 Optimizing <strong>AI system performance</strong> from prompt engineering to backend infrastructure</li>
+  <li>🌍 Turning AI concepts into <strong>reliable, real-world tools</strong> that scale</li>
 </ul>
 
 <br clear="right"/>
