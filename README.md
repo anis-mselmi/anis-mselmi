@@ -26,7 +26,9 @@
 
 
 
-<img src="anis_terminal_loop.gif" width="250" alt="Anis Terminal Loop">
+<p align="center">
+  <img src="anis_terminal_loop.gif" width="700" alt="Anis Terminal Loop">
+</p>
 
 
 
