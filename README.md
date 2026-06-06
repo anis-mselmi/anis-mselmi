@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
+---
+
+
+
+
+<img src="anis_terminal_loop.gif" width="250" alt="Anis Terminal Loop">
 
 
 
