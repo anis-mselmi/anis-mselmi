@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="anis_terminal_loop.gif" width="700" alt="Anis Terminal Loop">
+  <video src="make_this_photo_a_dynamic_gif.mp4" width="400" autoplay loop muted playsinline></video>
 </p>
 
 
