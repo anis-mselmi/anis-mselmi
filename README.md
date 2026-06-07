@@ -107,9 +107,58 @@
 
 
 
+---
 
+<div align="center">
 
+## 🏆 NVIDIA Certifications
 
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA._page-0001.jpg" width="420" alt="Building Real-Time Video AI Applications"/><br/>
+      <b>🎬 Building Real-Time Video AI Applications</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA.._page-0001.jpg" width="420" alt="Generative AI with Diffusion Models"/><br/>
+      <b>🎨 Generative AI with Diffusion Models</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA..._page-0001.jpg" width="420" alt="Fundamentals of Deep Learning"/><br/>
+      <b>🧠 Fundamentals of Deep Learning</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA...._page-0001.jpg" width="420" alt="Building LLM Applications With Prompt Engineering"/><br/>
+      <b>💬 Building LLM Applications With Prompt Engineering</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA....._page-0001.jpg" width="420" alt="Building RAG Agents with LLMs"/><br/>
+      <b>🔍 Building RAG Agents with LLMs</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA......_page-0001.jpg" width="420" alt="Introduction to Transformer-Based NLP"/><br/>
+      <b>🤗 Introduction to Transformer-Based NLP</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="My%20Learning%20_%20NVIDIA......._page-0001.jpg" width="420" alt="Building AI-Based Cybersecurity Pipelines"/><br/>
+      <b>🔐 Building AI-Based Cybersecurity Pipelines</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="420" alt="Fundamentals of Accelerated Computing with CUDA Python"/><br/>
+      <b>⚡ Fundamentals of Accelerated Computing with CUDA Python</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 <div align="center">
