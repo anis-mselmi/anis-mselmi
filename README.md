@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Repos-My%20Projects-00BFFF?style=flat"/>
   <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
+  <a href="https://buymeacoffee.com/anis_mselmi">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-00BFFF?style=flat"/>
 </p>
 
 
