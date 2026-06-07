@@ -2,22 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=👨‍💻+Anis+Mselmi" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anis-mselmi&label=Profile%20views&color=00BFFF&style=flat" />
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
   <img src="https://img.shields.io/badge/Repos-My%20Projects-00BFFF?style=flat"/>
-  <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
+  <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats"/>
   <a href="https://buymeacoffee.com/anis_mselmi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-00BFFF?style=flat"/>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -25,24 +20,9 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-
-
-
-
-
 <p align="center">
-  <img src="make_this_photo_a_dynamic_gif.gif" width="650" alt="Anis Mselmi - Dynamic Banner" />
+  <img src="assets/banner/banner.gif" width="650" alt="Anis Mselmi - Dynamic Banner" />
 </p>
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -96,21 +76,6 @@
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <div align="center">
@@ -122,30 +87,30 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA._page-0001.jpg" width="220" alt="Building Real-Time Video AI Applications"/>
+      <img src="assets/certs/nvidia_cert_1.jpg" width="220" alt="Building Real-Time Video AI Applications"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA.._page-0001.jpg" width="220" alt="Generative AI with Diffusion Models"/>
+      <img src="assets/certs/nvidia_cert_2.jpg" width="220" alt="Generative AI with Diffusion Models"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA..._page-0001.jpg" width="220" alt="Fundamentals of Deep Learning"/>
+      <img src="assets/certs/nvidia_cert_3.jpg" width="220" alt="Fundamentals of Deep Learning"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA...._page-0001.jpg" width="220" alt="Building LLM Applications With Prompt Engineering"/>
+      <img src="assets/certs/nvidia_cert_4.jpg" width="220" alt="Building LLM Applications With Prompt Engineering"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA....._page-0001.jpg" width="220" alt="Building RAG Agents with LLMs"/>
+      <img src="assets/certs/nvidia_cert_5.jpg" width="220" alt="Building RAG Agents with LLMs"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA......_page-0001.jpg" width="220" alt="Introduction to Transformer-Based NLP"/>
+      <img src="assets/certs/nvidia_cert_6.jpg" width="220" alt="Introduction to Transformer-Based NLP"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA......._page-0001.jpg" width="220" alt="Building AI-Based Cybersecurity Pipelines"/>
+      <img src="assets/certs/nvidia_cert_7.jpg" width="220" alt="Building AI-Based Cybersecurity Pipelines"/>
     </td>
     <td align="center" width="25%">
-      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="220" alt="Fundamentals of Accelerated Computing with CUDA Python"/>
+      <img src="assets/certs/nvidia_cert_8.jpg" width="220" alt="Fundamentals of Accelerated Computing with CUDA Python"/>
     </td>
   </tr>
 </table>
@@ -176,17 +141,17 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="saudi_%20arabia.jpg" width="45" alt="Arabic"/> &nbsp; <b>Arabic</b></td>
+      <td align="center"><img src="assets/flags/saudi_arabia.jpg" width="45" alt="Arabic"/> &nbsp; <b>Arabic</b></td>
       <td align="center">🥇 Native</td>
       <td align="left">▓▓▓▓▓▓▓▓▓▓ 100%</td>
     </tr>
     <tr>
-      <td align="center"><img src="France.png" width="45" alt="French"/> &nbsp; <b>French</b></td>
+      <td align="center"><img src="assets/flags/france.png" width="45" alt="French"/> &nbsp; <b>French</b></td>
       <td align="center">⭐ Fluent</td>
       <td align="left">▓▓▓▓▓▓▓▓▓░ 90%</td>
     </tr>
     <tr>
-      <td align="center"><img src="USA.png" width="45" alt="English"/> &nbsp; <b>English</b></td>
+      <td align="center"><img src="assets/flags/usa.png" width="45" alt="English"/> &nbsp; <b>English</b></td>
       <td align="center">💼 Professional</td>
       <td align="left">▓▓▓▓▓▓▓▓░░ 80%</td>
     </tr>
@@ -200,46 +165,35 @@
 <div align="center">
 
 ## ☕ How to Reach Me
-<div align="center">
 
 <a href="mailto:anismselmi490@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="anismselmi490@gmail.com" style="margin-bottom: 5px;" />
+  <img src="assets/social/gmail.png" width="50" height="50" alt="anismselmi490@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/anis_mselmi/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="anis_mselmi" style="margin-bottom: 5px;" />
+  <img src="assets/social/instagram.png" width="50" height="50" alt="anis_mselmi" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/anis-mselmi-441b39326/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="assets/social/linkedin.png" width="50" height="50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/anis-mselmi" target="_blank">
-  <img src="./github.png" width="50" height="50" alt="anis-mselmi" style="margin-bottom: 5px;" />
+  <img src="assets/social/github.png" width="50" height="50" alt="anis-mselmi" style="margin-bottom: 5px;" />
 </a>
 
-</div>
 <br/>
 
 </div>
 
 <p align="center">
   <a href="https://buymeacoffee.com/anis_mselmi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-         height="50" 
-         alt="Buy Me A Coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
   </a>
 </p>
-
-
-
 
 <img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
 <img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
 
 <img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
 <img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
-
-
-
-
