@@ -163,20 +163,30 @@
 ## 🌍 Languages
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="saudi_%20arabia.jpg" width="60" alt="Arabic"/><br/>
-      <b>Arabic</b><br/><sub>Native</sub>
-    </td>
-    <td align="center">
-      <img src="France.png" width="60" alt="French"/><br/>
-      <b>French</b><br/><sub>Fluent</sub>
-    </td>
-    <td align="center">
-      <img src="USA.png" width="60" alt="English"/><br/>
-      <b>English</b><br/><sub>Professional</sub>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>🌐 Language</th>
+      <th>🎯 Level</th>
+      <th>📊 Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="saudi_%20arabia.jpg" width="45" alt="Arabic"/> &nbsp; <b>Arabic</b></td>
+      <td align="center">🥇 Native</td>
+      <td align="left">▓▓▓▓▓▓▓▓▓▓ 100%</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="France.png" width="45" alt="French"/> &nbsp; <b>French</b></td>
+      <td align="center">⭐ Fluent</td>
+      <td align="left">▓▓▓▓▓▓▓▓▓░ 90%</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="USA.png" width="45" alt="English"/> &nbsp; <b>English</b></td>
+      <td align="center">💼 Professional</td>
+      <td align="left">▓▓▓▓▓▓▓▓░░ 80%</td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
