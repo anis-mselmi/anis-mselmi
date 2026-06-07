@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="make_this_photo_a_dynamic_gif.gif" width="800" alt="Anis Mselmi - Dynamic Banner" />
+  <img src="make_this_photo_a_dynamic_gif.gif" width="350" alt="Anis Mselmi - Dynamic Banner" />
 </p>
 
 
