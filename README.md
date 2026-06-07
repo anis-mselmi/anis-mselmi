@@ -118,38 +118,30 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA._page-0001.jpg" width="190" alt="Building Real-Time Video AI Applications"/><br/>
-      <sub><b>🎬 Building Real-Time<br/>Video AI Applications</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA._page-0001.jpg" width="220" alt="Building Real-Time Video AI Applications"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA.._page-0001.jpg" width="190" alt="Generative AI with Diffusion Models"/><br/>
-      <sub><b>🎨 Generative AI with<br/>Diffusion Models</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA.._page-0001.jpg" width="220" alt="Generative AI with Diffusion Models"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA..._page-0001.jpg" width="190" alt="Fundamentals of Deep Learning"/><br/>
-      <sub><b>🧠 Fundamentals of<br/>Deep Learning</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA..._page-0001.jpg" width="220" alt="Fundamentals of Deep Learning"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA...._page-0001.jpg" width="190" alt="Building LLM Applications With Prompt Engineering"/><br/>
-      <sub><b>💬 Building LLM Apps<br/>With Prompt Engineering</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA...._page-0001.jpg" width="220" alt="Building LLM Applications With Prompt Engineering"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA....._page-0001.jpg" width="190" alt="Building RAG Agents with LLMs"/><br/>
-      <sub><b>🔍 Building RAG<br/>Agents with LLMs</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA....._page-0001.jpg" width="220" alt="Building RAG Agents with LLMs"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA......_page-0001.jpg" width="190" alt="Introduction to Transformer-Based NLP"/><br/>
-      <sub><b>🤗 Transformer-Based<br/>NLP</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA......_page-0001.jpg" width="220" alt="Introduction to Transformer-Based NLP"/>
     </td>
     <td align="center" width="25%">
-      <img src="My%20Learning%20_%20NVIDIA......._page-0001.jpg" width="190" alt="Building AI-Based Cybersecurity Pipelines"/><br/>
-      <sub><b>🔐 AI-Based<br/>Cybersecurity Pipelines</b></sub>
+      <img src="My%20Learning%20_%20NVIDIA......._page-0001.jpg" width="220" alt="Building AI-Based Cybersecurity Pipelines"/>
     </td>
     <td align="center" width="25%">
-      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="190" alt="Fundamentals of Accelerated Computing with CUDA Python"/><br/>
-      <sub><b>⚡ Accelerated Computing<br/>with CUDA Python</b></sub>
+      <img src="Fundamentals_of_Accelerated_Computing_with_CUDA_Python.jpg" width="220" alt="Fundamentals of Accelerated Computing with CUDA Python"/>
     </td>
   </tr>
 </table>
