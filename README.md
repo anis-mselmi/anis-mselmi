@@ -148,6 +148,15 @@
 
 ---
 
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anis-mselmi&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Anis Mselmi's Contribution Graph"/>
+
+</div>
+
+---
 
 <div align="center">
 
