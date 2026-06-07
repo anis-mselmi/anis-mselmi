@@ -160,6 +160,31 @@
 
 <div align="center">
 
+## 🌍 Languages
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="saudi_%20arabia.jpg" width="60" alt="Arabic"/><br/>
+      <b>Arabic</b><br/><sub>Native</sub>
+    </td>
+    <td align="center">
+      <img src="France.png" width="60" alt="French"/><br/>
+      <b>French</b><br/><sub>Fluent</sub>
+    </td>
+    <td align="center">
+      <img src="USA.png" width="60" alt="English"/><br/>
+      <b>English</b><br/><sub>Professional</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## ☕ How to Reach Me
 <div align="center">
 
