@@ -37,29 +37,7 @@
 
 
 
-<h1>😎 I'm Anis!</h1>
 
-<h2><em>AI & DevOps Developer | LLMs • RAG • Machine Learning</em></h2>
-
-<img align="right" 
-     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-     width="300" 
-     alt="Developer Illustration"/>
-
-<br>
-
-<p>
-  I build and deploy scalable AI systems, blending large language models with modern DevOps. I focus on turning RAG pipelines and ML concepts into reliable, production-ready applications.
-</p>
-
-<ul>
-  <li>🧠 Integrating <strong>LLMs & RAG pipelines</strong> into scalable architectures</li>
-  <li>⚙️ Developing Python <strong>ML apps</strong> and automating delivery via <strong>CI/CD</strong></li>
-  <li>🐧 Managing containerized deployments using <strong>Docker & Linux</strong></li>
-  <li>🚀 Optimizing full-stack performance, from <strong>prompts to infrastructure</strong></li>
-</ul>
-
-<br clear="right"/>
 
 
 ---
