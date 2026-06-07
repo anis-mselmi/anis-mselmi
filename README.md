@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <video src="make_this_photo_a_dynamic_gif.mp4" width="400" autoplay loop muted playsinline></video>
+  <img src="make_this_photo_a_dynamic_gif.gif" width="800" alt="Anis Mselmi - Dynamic Banner" />
 </p>
 
 
