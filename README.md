@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
@@ -78,44 +77,7 @@
 
 ---
 
-<div align="center">
 
-## 🏆 NVIDIA Certifications
-
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_1.jpg" width="220" alt="Building Real-Time Video AI Applications"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_2.jpg" width="220" alt="Generative AI with Diffusion Models"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_3.jpg" width="220" alt="Fundamentals of Deep Learning"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_4.jpg" width="220" alt="Building LLM Applications With Prompt Engineering"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_5.jpg" width="220" alt="Building RAG Agents with LLMs"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_6.jpg" width="220" alt="Introduction to Transformer-Based NLP"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_7.jpg" width="220" alt="Building AI-Based Cybersecurity Pipelines"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/certs/nvidia_cert_8.jpg" width="220" alt="Fundamentals of Accelerated Computing with CUDA Python"/>
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
 
