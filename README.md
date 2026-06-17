@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/image.png" width="650" alt="Anis Mselmi - Dynamic Banner" />
+  <img src="assets/image.png" width="300" alt="Anis Mselmi - Dynamic Banner" />
 </p>
 
 ---
