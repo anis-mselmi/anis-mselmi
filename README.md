@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=👨‍💻+Anis+Mselmi" />
 </p>
-
+<h3><em>AI & DevOps Developer | LLMs • RAG • Machine Learning</em></h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
