@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=👨‍💻+Anis+Mselmi" />
 </p>
-<p align="center">
-  <img src="images/subtitle.svg" alt="AI &amp; DevOps Developer | LLMs • RAG • Machine Learning" />
-</p>
+<h3 align="center">
+  <code>AI &amp; DevOps Developer | LLMs • RAG • Machine Learning</code>
+</h3>
 
 
 
