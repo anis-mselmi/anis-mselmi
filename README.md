@@ -5,15 +5,7 @@
   <em>AI & DevOps Developer | LLMs • RAG • Machine Learning</em>
 </h3>
 
-<style>
-  .cool-title {
-    text-align: center;              /* Centers the text */
-    font-family: 'Poppins', sans-serif; /* Modern, cooler font */
-    color: #1E90FF;                  /* DodgerBlue shade */
-    font-weight: 500;                /* Slightly bold for emphasis */
-    margin: 20px 0;                  /* Adds spacing above/below */
-  }
-</style>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
