@@ -33,5 +33,4 @@
   <img src="assets/image.png" width="300" alt="Anis Mselmi - Dynamic Banner" />
 </p>
 
----
 
