@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/image.png" width="300" alt="Anis Mselmi - Dynamic Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer coding" />
 </p>
 
 
