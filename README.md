@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMS43NTEgMjIuNjA3YzEuMzQgMS4wMDUgMy4zNS4zMzUgMS41MDgtMS41MDhDMTcuNzMgMTUuNzQgMTguOTA0IDEgMTIuMDM3IDEgNS4xNyAxIDYuMzQyIDE1Ljc0LjgxNSAyMS4xYy0yLjAxIDIuMDA5LjE2NyAyLjUxMSAxLjUwNyAxLjUwNiA1LjE5Mi0zLjUxNyA0Ljg1Ny05LjcxNCA5LjcxNS05LjcxNCA0Ljg1NyAwIDQuNTIyIDYuMTk3IDkuNzE0IDkuNzE1eiIvPjwvc3ZnPg==&logoColor=white"/>
   <img src="assets/llamaindex.svg" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   
   
