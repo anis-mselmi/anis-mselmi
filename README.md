@@ -11,6 +11,9 @@
   <a href="https://anismselmi.me/">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-anismselmi.me-00BFFF?style=flat"/>
   </a>
+  <a href="https://buymeacoffee.com/anis_mselmi">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
   <a href="https://wa.me/21625141636">
     <img src="https://img.shields.io/badge/WhatsApp-%2B216%2025%20141%20636-00BFFF?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
@@ -20,9 +23,6 @@
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <a href="https://buymeacoffee.com/anis_mselmi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
-  </a>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
