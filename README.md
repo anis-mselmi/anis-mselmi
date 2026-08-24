@@ -8,11 +8,15 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
-  <img src="https://img.shields.io/badge/Repos-My%20Projects-00BFFF?style=flat"/>
+  <a href="https://anismselmi.me/">
+    <img src="https://img.shields.io/badge/Website-anismselmi.me-00BFFF?style=flat"/>
+  </a>
   <a href="https://buymeacoffee.com/anis_mselmi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-00BFFF?style=flat"/>
+  <a href="https://wa.me/21625141636">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B216%2025%20141%20636-00BFFF?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
