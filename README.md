@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/llamaindex.svg" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/langgraph.svg" alt="LangGraph"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg" width="100%" alt="GitHub contribution graph banner" />
