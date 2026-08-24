@@ -11,9 +11,6 @@
   <a href="https://anismselmi.me/">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-anismselmi.me-00BFFF?style=flat"/>
   </a>
-  <a href="https://buymeacoffee.com/anis_mselmi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
-  </a>
   <a href="https://wa.me/21625141636">
     <img src="https://img.shields.io/badge/WhatsApp-%2B216%2025%20141%20636-00BFFF?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
