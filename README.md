@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/anis-mselmi?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/anis-mselmi?label=Stars&style=social"/>
   <a href="https://anismselmi.me/">
-    <img src="https://img.shields.io/badge/Website-anismselmi.me-00BFFF?style=flat"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-anismselmi.me-00BFFF?style=flat"/>
   </a>
   <a href="https://buymeacoffee.com/anis_mselmi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-00BFFF?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
