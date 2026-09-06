@@ -28,4 +28,7 @@
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg" width="100%" alt="GitHub contribution graph banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg" width="100%" alt="GitHub contribution graph banner" />
+</p>
+

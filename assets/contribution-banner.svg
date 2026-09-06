@@ -1,53 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Anis Mselmi GitHub contribution banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220" role="img" aria-label="GitHub 3D Contribution Skyline">
 <defs>
-
   <linearGradient id="bg" x1="0" y1="0" x2="0.7" y2="1">
     <stop offset="0" stop-color="#0c0c0e"/><stop offset="0.6" stop-color="#08080a"/><stop offset="1" stop-color="#000000"/>
   </linearGradient>
-  <linearGradient id="ghlogo" x1="0" y1="0" x2="0.3" y2="1">
-    <stop offset="0%" stop-color="#ffffff"/>
-    <stop offset="50%" stop-color="#e6edf3"/>
-    <stop offset="100%" stop-color="#8b949e"/>
-  </linearGradient>
-  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="grid_sweep" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#39d353" stop-opacity="0"/>
-    <stop offset="0.5" stop-color="#39d353" stop-opacity="0.18"/>
-    <stop offset="1" stop-color="#39d353" stop-opacity="0"/>
-  </linearGradient>
-  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-    <stop offset="0" stop-color="#dfe7ff" stop-opacity="0.9"/><stop offset="1" stop-color="#dfe7ff" stop-opacity="0"/>
+  <radialGradient id="halo" cx="0.5" cy="0.1" r="0.85">
+    <stop offset="0" stop-color="#18202e" stop-opacity="0.75"/><stop offset="1" stop-color="#18202e" stop-opacity="0"/>
   </radialGradient>
-  <radialGradient id="halo" cx="0.3" cy="0.1" r="1">
-    <stop offset="0" stop-color="#18202e" stop-opacity="0.7"/><stop offset="1" stop-color="#18202e" stop-opacity="0"/>
-  </radialGradient>
-  <clipPath id="round"><rect x="1" y="1" width="898" height="218" rx="16"/></clipPath>
-  <clipPath id="grid_clip"><rect x="410" y="64" width="436" height="98" rx="4"/></clipPath>
-  <clipPath id="nameclip">
-    <text x="28" y="80" font-family="'JetBrains Mono','Fira Code',monospace" font-size="29" font-weight="700" letter-spacing="1">ANIS MSELMI</text>
-  </clipPath>
-
+  <clipPath id="round"><rect x="1" y="1" width="498" height="218" rx="16"/></clipPath>
 </defs>
-<rect x="1" y="1" width="898" height="218" rx="16" fill="url(#bg)"/>
-<rect x="1.5" y="1.5" width="897" height="217" rx="15" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.14"><animate attributeName="opacity" values="0.08;0.2;0.08" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="498" height="218" rx="16" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="497" height="217" rx="15" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.14">
+  <animate attributeName="opacity" values="0.08;0.2;0.08" dur="4s" repeatCount="indefinite"/>
+</rect>
 <g clip-path="url(#round)">
-<rect x="1" y="1" width="898" height="218" fill="url(#halo)"/>
-<circle cx="26" cy="24" r="4" fill="#3a3a3f"/>
-<circle cx="42" cy="24" r="4" fill="#3a3a3f"/>
-<circle cx="58" cy="24" r="4" fill="#3a3a3f"/>
-<text x="74" y="27.5" font-family="'JetBrains Mono',monospace" font-size="9.5" fill="#6a6d75" letter-spacing="1">— github —</text>
-
-<!-- Left Ambient Floating Particles -->
-<g fill="#aeb4c0">
-<circle cx="229.9" cy="125.4" r="1.3" opacity="0.14"><animate attributeName="opacity" values="0.04;0.22;0.04" dur="6.2s" begin="-4.90s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;11 4;0 0" dur="9.8s" begin="-4.90s" repeatCount="indefinite"/></circle>
-<circle cx="121.5" cy="99.4" r="1.6" opacity="0.14"><animate attributeName="opacity" values="0.04;0.22;0.04" dur="5.2s" begin="-3.34s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;-10 -0;0 0" dur="8.3s" begin="-3.34s" repeatCount="indefinite"/></circle>
-<circle cx="171.5" cy="68.5" r="1.0" opacity="0.14"><animate attributeName="opacity" values="0.04;0.22;0.04" dur="6.1s" begin="-0.02s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;-0 1;0 0" dur="9.7s" begin="-0.02s" repeatCount="indefinite"/></circle>
-</g>
-
-<line x1="360" y1="35" x2="360" y2="185" stroke="#ffffff" stroke-width="1" opacity="0.12"/>
-
+<rect x="1" y="1" width="498" height="218" fill="url(#halo)"/>
+<g transform="translate(-366, 0)">
 <!-- Right Side: 2.5D Isometric GitHub Skyline / Cyber City -->
 <g font-family="'JetBrains Mono','Fira Code',monospace">
   <circle cx="392" cy="30" r="3.5" fill="#39d353">
@@ -907,31 +874,7 @@
   <rect x="814" y="170" width="9" height="20" rx="1.5" fill="#39d353" stroke="#7ee787" stroke-width="0.5"/>
   <text x="828" y="190" font-size="8" fill="#7d8590">56m</text>
 </g>
-</g>
 
-<!-- Left Identity Block -->
-<text x="28" y="80" font-family="'JetBrains Mono','Fira Code',monospace" font-size="29" font-weight="700" letter-spacing="1" fill="#ffffff">ANIS MSELMI</text>
-<g clip-path="url(#nameclip)"><rect x="-10" y="54" width="60" height="40" fill="url(#sheen)" transform="skewX(-16)" opacity="0.85"><animate attributeName="x" values="-40;300" keyTimes="0;1" dur="3.8s" repeatCount="indefinite"/></rect></g>
-<circle cx="58" cy="150" r="36" fill="url(#glow)" opacity="0.28"/>
-<g transform="translate(58,150)">
-<animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -2.5;0 0" dur="3.4s" repeatCount="indefinite"/>
-<g transform="scale(0.53) translate(-48.854, -48)">
-  <path fill="url(#ghlogo)" d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362 0-1.141-.08-5.052-.08-9.127-13.59 2.934-16.42-5.867-16.42-5.867-2.184-5.704-5.42-7.17-5.42-7.17-4.448-3.015.324-3.015.324-3.015 4.934.326 7.523 5.052 7.523 5.052 4.367 7.496 11.404 5.378 14.235 4.074.404-3.178 1.699-5.378 3.074-6.6-10.839-1.141-22.243-5.378-22.243-24.283 0-5.378 1.94-9.778 5.014-13.2-.485-1.222-2.184-6.275.486-13.038 0 0 4.125-1.304 13.426 5.052a46.97 46.97 0 0 1 12.214-1.63c4.125 0 8.33.571 12.213 1.63 9.302-6.356 13.427-5.052 13.427-5.052 2.67 6.763.97 11.816.485 13.038 3.155 3.422 5.015 7.822 5.015 13.2 0 18.905-11.404 23.06-22.324 24.283 1.78 1.548 3.316 4.481 3.316 9.126 0 6.6-.08 11.897-.08 13.526 0 1.304.89 2.853 3.316 2.364 19.412-6.52 33.405-24.935 33.405-46.691C97.707 22 75.788 0 48.854 0z"/>
 </g>
-</g>
-<text x="104" y="134" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#c3c6cd" letter-spacing="1">Data Engineering</text>
-<text x="104" y="152" font-family="'JetBrains Mono','Fira Code',monospace" font-size="11.5" fill="#82868f" letter-spacing="1">LLMs · RAG · ML</text>
-<g transform="translate(104,176)" font-family="'JetBrains Mono','Fira Code',monospace">
-  <clipPath id="typeclip">
-    <rect x="16" y="-12" width="136" height="16">
-      <animate attributeName="width" values="136; 136; 0; 0; 136; 136" keyTimes="0; 0.46; 0.65; 0.74; 0.92; 1" dur="6.5s" repeatCount="indefinite"/>
-    </rect>
-  </clipPath>
-  <text x="0" y="0" font-size="12" font-weight="700" fill="#ffffff">&gt;</text>
-  <text x="16" y="0" font-size="11" fill="#c3c6cd" clip-path="url(#typeclip)">git push origin main</text>
-  <rect x="154" y="-9.5" width="6.5" height="11.5" fill="#ffffff">
-    <animate attributeName="x" values="154; 154; 18; 18; 154; 154" keyTimes="0; 0.46; 0.65; 0.74; 0.92; 1" dur="6.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.5; 0.5; 1" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
 </g>
 </svg>
