@@ -29,6 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=3" width="480" alt="GitHub contribution graph banner" />
+  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=4" width="100%" alt="GitHub contribution graph banner" />
 </p>
 
