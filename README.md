@@ -23,12 +23,12 @@
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=4" width="100%" alt="GitHub contribution graph banner" />
+  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=5" width="100%" alt="NVIDIA CUDA contribution graph banner" />
 </p>
 
