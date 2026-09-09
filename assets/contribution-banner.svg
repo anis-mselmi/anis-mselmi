@@ -1,17 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340" role="img" aria-label="Anis Mselmi — Linux terminal">
   <defs>
     <filter id="shadow" x="-6%" y="-6%" width="112%" height="118%">
-      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.55"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
-
-    <!-- Typewriter reveal masks (left-to-right wipe) -->
-    <clipPath id="clip1"><rect x="36" y="76" width="0" height="24"><animate attributeName="width" from="0" to="360" begin="0.4s" dur="0.85s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip2"><rect x="36" y="144" width="0" height="24"><animate attributeName="width" from="0" to="360" begin="1.9s" dur="0.85s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip3"><rect x="36" y="212" width="0" height="24"><animate attributeName="width" from="0" to="360" begin="3.4s" dur="0.85s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip4"><rect x="36" y="280" width="0" height="24"><animate attributeName="width" from="0" to="150" begin="4.9s" dur="0.45s" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <rect width="100%" height="100%" fill="transparent"/>
+  <!-- transparent canvas: blends with any README theme -->
+  <rect width="100%" height="100%" fill="none"/>
 
   <!-- Terminal window -->
   <g filter="url(#shadow)">
@@ -30,40 +25,22 @@
     <tspan fill="#adbac7" font-weight="600">anis@mselmi</tspan>: ~ — bash
   </text>
 
-  <!-- Session -->
+  <!-- Session (all text visible by default; cursor animation is additive) -->
   <g font-family="'JetBrains Mono','Fira Code','SF Mono','DejaVu Sans Mono','Courier New',monospace" font-size="15.5" xml:space="preserve">
 
-    <!-- Command 1 -->
-    <g clip-path="url(#clip1)">
-      <text x="36" y="94"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">whoami.txt</tspan></text>
-    </g>
-    <text x="36" y="122" opacity="0"><tspan fill="#e6edf3" font-weight="600">Anis Mselmi</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#adbac7">Data Engineering Student</tspan>
-      <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.3s" fill="freeze"/>
-    </text>
+    <text x="36" y="94"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">whoami.txt</tspan></text>
+    <text x="36" y="122"><tspan fill="#e6edf3" font-weight="600">Anis Mselmi</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#adbac7">Data Engineering Student</tspan></text>
 
-    <!-- Command 2 -->
-    <g clip-path="url(#clip2)">
-      <text x="36" y="162"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">focus.txt</tspan></text>
-    </g>
-    <text x="36" y="190" opacity="0"><tspan fill="#3fb950">LLMs</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">RAG</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#bc8cff">Machine Learning</tspan>
-      <animate attributeName="opacity" from="0" to="1" begin="2.85s" dur="0.3s" fill="freeze"/>
-    </text>
+    <text x="36" y="162"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">focus.txt</tspan></text>
+    <text x="36" y="190"><tspan fill="#3fb950">LLMs</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">RAG</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#bc8cff">Machine Learning</tspan></text>
 
-    <!-- Command 3 -->
-    <g clip-path="url(#clip3)">
-      <text x="36" y="230"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">echo</tspan> <tspan fill="#d2a8ff">$WEBSITE</tspan></text>
-    </g>
-    <text x="36" y="258" opacity="0"><tspan fill="#58a6ff" text-decoration="underline">https://anismselmi.me</tspan>
-      <animate attributeName="opacity" from="0" to="1" begin="4.35s" dur="0.3s" fill="freeze"/>
-    </text>
+    <text x="36" y="230"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">echo</tspan> <tspan fill="#d2a8ff">$WEBSITE</tspan></text>
+    <text x="36" y="258"><tspan fill="#58a6ff" text-decoration="underline">https://anismselmi.me</tspan></text>
 
-    <!-- Active prompt -->
-    <g clip-path="url(#clip4)">
-      <text x="36" y="298"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> </text>
-    </g>
-    <rect x="169" y="285" width="10" height="17" fill="#3fb950" opacity="0">
-      <animate attributeName="opacity" values="0;1" begin="5.35s" dur="0.01s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" begin="5.35s" dur="1.05s" repeatCount="indefinite"/>
+    <!-- Active prompt + blinking cursor -->
+    <text x="36" y="298"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> </text>
+    <rect x="169" y="285" width="10" height="17" fill="#3fb950">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
