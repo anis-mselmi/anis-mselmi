@@ -29,6 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=6" width="100%" alt="Anis Mselmi - Linux Terminal Profile" />
+  <img src="https://raw.githubusercontent.com/anis-mselmi/anis-mselmi/main/assets/contribution-banner.svg?v=7" width="100%" alt="Anis Mselmi - Linux Terminal Profile" />
 </p>
 

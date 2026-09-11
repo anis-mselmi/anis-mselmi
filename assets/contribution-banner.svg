@@ -5,24 +5,29 @@
     </filter>
 
     <!-- Per-line typewriter reveals: each rect grows left→right during its window,
-         then all snap back to 0 at loop restart so the terminal re-types itself. -->
+         then all snap back to 0 at loop restart so the terminal re-types itself.
+         Widths are sized past each line's text so no characters get clipped. -->
     <clipPath id="clip1"><rect x="30" y="76"  height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.03;0.16;1" values="0;0;275;275"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.03;0.16;1" values="0;0;317;317"/>
     </rect></clipPath>
     <clipPath id="clip2"><rect x="30" y="104" height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.16;0.29;1" values="0;0;360;360"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.16;0.29;1" values="0;0;401;401"/>
     </rect></clipPath>
     <clipPath id="clip3"><rect x="30" y="144" height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.29;0.42;1" values="0;0;260;260"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.29;0.42;1" values="0;0;307;307"/>
     </rect></clipPath>
     <clipPath id="clip4"><rect x="30" y="172" height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.42;0.54;1" values="0;0;270;270"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.42;0.54;1" values="0;0;317;317"/>
     </rect></clipPath>
     <clipPath id="clip5"><rect x="30" y="212" height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.54;0.65;1" values="0;0;260;260"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.54;0.65;1" values="0;0;307;307"/>
     </rect></clipPath>
     <clipPath id="clip6"><rect x="30" y="240" height="26" width="0">
-      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.65;0.75;1" values="0;0;200;200"/>
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.65;0.75;1" values="0;0;242;242"/>
+    </rect></clipPath>
+    <!-- Final resting prompt only appears after the last line is typed -->
+    <clipPath id="clip7"><rect x="30" y="280" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.73;0.76;1" values="0;0;190;190"/>
     </rect></clipPath>
   </defs>
 
@@ -70,14 +75,16 @@
       <text x="36" y="258"><tspan fill="#58a6ff" text-decoration="underline">https://anismselmi.me</tspan></text>
     </g>
 
-    <!-- Final resting prompt -->
-    <text x="36" y="298"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> </text>
+    <!-- Final resting prompt (revealed only at the end, hidden on loop restart) -->
+    <g clip-path="url(#clip7)">
+      <text x="36" y="298"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> </text>
+    </g>
 
     <!-- Cursor: rides the typing front line-by-line, then rests + blinks -->
     <rect width="10" height="17" fill="#3fb950">
       <animate attributeName="x" dur="10s" repeatCount="indefinite"
         keyTimes="0;0.03;0.16;0.16;0.29;0.29;0.42;0.42;0.54;0.54;0.65;0.65;0.75;0.75;1"
-        values="40;40;300;40;389;40;288;40;297;40;288;40;226;169;169"/>
+        values="40;40;347;40;431;40;337;40;347;40;337;40;272;178;178"/>
       <animate attributeName="y" dur="10s" repeatCount="indefinite"
         keyTimes="0;0.03;0.16;0.16;0.29;0.29;0.42;0.42;0.54;0.54;0.65;0.65;0.75;0.75;1"
         values="80;80;80;108;108;148;148;176;176;216;216;244;244;284;284"/>
