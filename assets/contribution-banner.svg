@@ -3,6 +3,27 @@
     <filter id="shadow" x="-6%" y="-6%" width="112%" height="118%">
       <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
+
+    <!-- Per-line typewriter reveals: each rect grows left→right during its window,
+         then all snap back to 0 at loop restart so the terminal re-types itself. -->
+    <clipPath id="clip1"><rect x="30" y="76"  height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.03;0.16;1" values="0;0;275;275"/>
+    </rect></clipPath>
+    <clipPath id="clip2"><rect x="30" y="104" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.16;0.29;1" values="0;0;360;360"/>
+    </rect></clipPath>
+    <clipPath id="clip3"><rect x="30" y="144" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.29;0.42;1" values="0;0;260;260"/>
+    </rect></clipPath>
+    <clipPath id="clip4"><rect x="30" y="172" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.42;0.54;1" values="0;0;270;270"/>
+    </rect></clipPath>
+    <clipPath id="clip5"><rect x="30" y="212" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.54;0.65;1" values="0;0;260;260"/>
+    </rect></clipPath>
+    <clipPath id="clip6"><rect x="30" y="240" height="26" width="0">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" keyTimes="0;0.65;0.75;1" values="0;0;200;200"/>
+    </rect></clipPath>
   </defs>
 
   <!-- transparent canvas: blends with any README theme -->
@@ -25,22 +46,43 @@
     <tspan fill="#adbac7" font-weight="600">anis@mselmi</tspan>: ~ — bash
   </text>
 
-  <!-- Session (all text visible by default; cursor animation is additive) -->
+  <!-- Session: each line is clipped by its animated reveal rect -->
   <g font-family="'JetBrains Mono','Fira Code','SF Mono','DejaVu Sans Mono','Courier New',monospace" font-size="15.5" xml:space="preserve">
 
-    <text x="36" y="94"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">whoami.txt</tspan></text>
-    <text x="36" y="122"><tspan fill="#e6edf3" font-weight="600">Anis Mselmi</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#adbac7">Data Engineering Student</tspan></text>
+    <g clip-path="url(#clip1)">
+      <text x="36" y="94"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">whoami.txt</tspan></text>
+    </g>
+    <g clip-path="url(#clip2)">
+      <text x="36" y="122"><tspan fill="#e6edf3" font-weight="600">Anis Mselmi</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#adbac7">Data Engineering Student</tspan></text>
+    </g>
 
-    <text x="36" y="162"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">focus.txt</tspan></text>
-    <text x="36" y="190"><tspan fill="#3fb950">LLMs</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">RAG</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#bc8cff">Machine Learning</tspan></text>
+    <g clip-path="url(#clip3)">
+      <text x="36" y="162"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">cat</tspan> <tspan fill="#adbac7">focus.txt</tspan></text>
+    </g>
+    <g clip-path="url(#clip4)">
+      <text x="36" y="190"><tspan fill="#3fb950">LLMs</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">RAG</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#bc8cff">Machine Learning</tspan></text>
+    </g>
 
-    <text x="36" y="230"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">echo</tspan> <tspan fill="#d2a8ff">$WEBSITE</tspan></text>
-    <text x="36" y="258"><tspan fill="#58a6ff" text-decoration="underline">https://anismselmi.me</tspan></text>
+    <g clip-path="url(#clip5)">
+      <text x="36" y="230"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#79c0ff">echo</tspan> <tspan fill="#d2a8ff">$WEBSITE</tspan></text>
+    </g>
+    <g clip-path="url(#clip6)">
+      <text x="36" y="258"><tspan fill="#58a6ff" text-decoration="underline">https://anismselmi.me</tspan></text>
+    </g>
 
-    <!-- Active prompt + blinking cursor -->
+    <!-- Final resting prompt -->
     <text x="36" y="298"><tspan fill="#3fb950" font-weight="700">anis@mselmi</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#e6edf3">$</tspan> </text>
-    <rect x="169" y="285" width="10" height="17" fill="#3fb950">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+
+    <!-- Cursor: rides the typing front line-by-line, then rests + blinks -->
+    <rect width="10" height="17" fill="#3fb950">
+      <animate attributeName="x" dur="10s" repeatCount="indefinite"
+        keyTimes="0;0.03;0.16;0.16;0.29;0.29;0.42;0.42;0.54;0.54;0.65;0.65;0.75;0.75;1"
+        values="40;40;300;40;389;40;288;40;297;40;288;40;226;169;169"/>
+      <animate attributeName="y" dur="10s" repeatCount="indefinite"
+        keyTimes="0;0.03;0.16;0.16;0.29;0.29;0.42;0.42;0.54;0.54;0.65;0.65;0.75;0.75;1"
+        values="80;80;80;108;108;148;148;176;176;216;216;244;244;284;284"/>
+      <animate attributeName="opacity" dur="10s" repeatCount="indefinite"
+        keyTimes="0;0.75;0.80;0.85;0.90;0.95;1" values="1;1;0;1;0;1;1"/>
     </rect>
   </g>
 </svg>
